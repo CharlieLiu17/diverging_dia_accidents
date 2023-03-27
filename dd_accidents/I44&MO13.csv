@@ -1,0 +1,8 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+406582,A-406583,2,37.250357,-93.267885,Slow traffic on I-44 W from I-44 Bus Loop/N Glenstone Ave/Exit 80 (I-44) to MO-13/Kansas Expy/Exit 77 (I-44) due to accident.,I-44 W,MO,0.0,Fair,True
+657997,A-657998,2,37.250357,-93.267885,Slow traffic on I-44 W from I-44 Bus Loop/N Glenstone Ave/Exit 80 (I-44) to MO-13/Kansas Expy/Exit 77 (I-44) due to accident.,I-44 W,MO,0.0,Fair,True
+959900,A-959901,2,37.250357,-93.267885,Slow traffic on I-44 W from I-44 Bus Loop/N Glenstone Ave/Exit 80 (I-44) to MO-13/Kansas Expy/Exit 77 (I-44) due to accident.,I-44 W,MO,0.0,Mostly Cloudy,True
+1006267,A-1006268,2,37.248375,-93.345729,Stationary traffic on I-44 W from MO-13/Kansas Expy/Exit 77 (I-44) to US-160/N West Byp/Exit 75 (I-44) due to accident.,I-44 W,MO,0.0,Thunder in the Vicinity,True
+1226481,A-1226482,2,37.250357,-93.267885,Stationary traffic on I-44 W from I-44 Bus Loop/N Glenstone Ave/Exit 80 (I-44) to MO-13/Kansas Expy/Exit 77 (I-44) due to accident.,I-44 W,MO,0.0,Fair,True
+2207509,A-2207510,3,37.25041,-93.31386,At MO-13/Kansas Expy/Exit 77 - Accident.,I-44 W,MO,0.08,Light Rain,True
+2777569,A-2777570,2,37.25041,-93.31386,Between MO-13/Kansas Expy/Exit 77 and US-160/West Bypass/Exit 75 - Accident.,I-44 W,MO,0.15,Light Rain / Windy,True

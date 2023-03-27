@@ -1,0 +1,10 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+2092883,A-2092884,2,38.07517,-84.50241,At US-25-BR/Georgetown St - Accident.,W New Circle Rd W,KY,0.0,Cloudy,True
+2112489,A-2112490,2,38.07517,-84.50241,At US-25-BR/Georgetown St - Accident.,W New Circle Rd W,KY,0.0,Partly Cloudy,True
+2118333,A-2118334,3,38.07517,-84.50241,At US-25-BR/Georgetown St - Accident. Right lane blocked.,W New Circle Rd W,KY,0.0,Mostly Cloudy,True
+2127956,A-2127957,4,38.07285,-84.52878,At US-421-BR/Leestown Rd - Accident. Right lane blocked.,W New Circle Rd W,KY,0.0,Cloudy,True
+2168440,A-2168441,2,38.07461,-84.49505,At KY-4/W New Circle Rd - Accident.,Newtown Pike,KY,0.0,Fair,True
+2176469,A-2176470,2,38.07285,-84.52878,At US-421-BR/Leestown Rd - Accident.,W New Circle Rd W,KY,0.0,Partly Cloudy,True
+2219312,A-2219313,2,38.07465,-84.49528000000002,At KY-4/W New Circle Rd - Accident.,W New Circle Rd,KY,0.0,Fair,True
+2262079,A-2262080,2,38.07517,-84.50241,Between KY-922/Newtown Pike and US-421-BR/Leestown Rd - Accident.,W New Circle Rd W,KY,0.0,Cloudy,True
+2539808,A-2539809,2,38.07414,-84.51039,At US-25-BR/Georgetown St - Accident. Lane blocked.,W New Circle Rd E,KY,0.0,Overcast,True

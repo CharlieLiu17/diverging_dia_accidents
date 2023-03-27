@@ -1,0 +1,6 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+509333,A-509334,2,37.140235,-93.258976,Slow traffic on US-60 E - James River Fwy E from National Ave (US-60) to Republic St/S Glenstone Ave (US-60) due to accident.,James River Fwy E,MO,0.0,Fair,True
+645470,A-645471,2,37.137881,-93.24946,Slow traffic on US-60 W - James River Fwy W from US-65/Schoolcraft Fwy (River Road Ave/US-60) to National Ave (US-60) due to accident.,James River Fwy W,MO,0.0,Cloudy,True
+692678,A-692679,2,37.137833,-93.291875,Stationary traffic on US-60 W from National Ave (US-60) to US-160/Campbell Ave (US-60) due to accident.,James River Fwy W,MO,0.02,Light Rain,True
+1749543,A-1749544,2,37.137621,-93.291743,Stationary traffic on US-60 from US-160/Campbell Ave (US-60) to National Ave (US-60) due to accident.,James River Fwy E,MO,0.0,Cloudy,True
+1984575,A-1984576,2,37.137619,-93.291724,Stationary traffic on US-60 from US-160/Campbell Ave (US-60) to National Ave (US-60) due to accident.,James River Fwy E,MO,0.0,Fair,True

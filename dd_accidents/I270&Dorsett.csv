@@ -1,0 +1,20 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+15139,A-15140,3,38.71793,-90.44676,At Dorsett Rd/Exit 17 - Accident.,I-270 S,MO,0.0,Light Snow,True
+15193,A-15194,2,38.71793,-90.44676,At Dorsett Rd/Exit 17 - Accident.,I-270 S,MO,0.0,Light Snow,True
+15203,A-15204,2,38.71793,-90.44676,At Dorsett Rd/Exit 17 - Accident.,I-270 S,MO,0.0,Light Snow,True
+148259,A-148260,2,38.71793,-90.44676,At Dorsett Rd/Exit 17 - Accident.,I-270 S,MO,0.0,Light Rain,True
+216090,A-216091,2,38.71793,-90.44676,At Dorsett Rd/Exit 17 - Accident.,I-270 S,MO,0.06,Rain,True
+486770,A-486771,4,38.711925,-90.447875,Incident on I-270 near DORSETT RD Road closed. Take alternate route.,I-270 N,MO,0.0,Haze,True
+578494,A-578495,2,38.717955,-90.44678,Incident on I-270 near DORSETT RD Drive with caution.,I-270 S,MO,0.0,Light Drizzle,True
+661550,A-661551,2,38.702495,-90.450329,Slow traffic on I-270 S from Dorsett Rd/Exit 17 (I-270) to MO-340/Olive Blvd/Exit 14 (I-270) due to accident.,I-270 S,MO,0.0,Mostly Cloudy,True
+941887,A-941888,2,38.717955,-90.44678,Incident on I-270 near DORSETT RD Drive with caution.,I-270 S,MO,0.0,Cloudy,True
+1150010,A-1150011,2,38.697696,-90.450827,Stationary traffic on I-270 S from Dorsett Rd/Exit 17 (I-270) to Ladue Rd/Exit 13 (I-270) due to accident.,I-270 S,MO,0.0,Fair,True
+1203855,A-1203856,4,38.730143,-90.443733,Incident on I-270 near DORSETT RD Road closed. Take alternate route.,I-270 N,MO,0.0,Haze,True
+1632845,A-1632846,2,38.717955,-90.44678,Incident on I-270 near DORSETT RD Drive with caution.,I-270 S,MO,0.0,Light Snow,True
+2210136,A-2210137,4,38.70238,-90.45032,Closed between Dorsett Rd/Exit 17 and MO-340/Olive Blvd/Exit 14 - Road closed due to accident.,I-270 S,MO,0.0,Cloudy / Windy,True
+2521300,A-2521301,2,38.71793,-90.44676,At Dorsett Rd/Exit 17 - Accident. Center lane blocked.,I-270 S,MO,0.0,Light Ice Pellets,True
+2565723,A-2565724,3,38.71793,-90.44676,At Dorsett Rd/Exit 17 - Accident. Right lane blocked.,I-270 S,MO,0.0,Light Rain,True
+2583942,A-2583943,3,38.71793,-90.44676,At Dorsett Rd/Exit 17 - Accident. Left lane blocked.,I-270 S,MO,0.0,Light Snow,True
+2702269,A-2702270,2,38.71793,-90.44676,At Dorsett Rd/Exit 17 - Accident.,I-270 S,MO,0.0,Overcast,True
+2782305,A-2782306,2,38.71793,-90.44676,At Dorsett Rd/Exit 17 - Accident. Left lane blocked.,I-270 S,MO,0.0,Cloudy,True
+2782894,A-2782895,2,38.71793,-90.44676,At Dorsett Rd/Exit 17 - Accident. Left lane blocked.,I-270 S,MO,0.0,Cloudy,True
