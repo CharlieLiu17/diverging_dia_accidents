@@ -1,0 +1,9 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+172775,A-172776,2,42.94432000000001,-85.5666,At Cascade Rd/Exit 40 - Accident.,I-96 W,MI,0.03,Rain,True
+241389,A-241390,2,42.944086,-85.566576,Incident on I-96 WB near CASCADE RD Drive with caution.,I-96 W,MI,0.0,Mostly Cloudy,True
+485504,A-485505,4,42.944086,-85.56658399999998,I-96 W is closed from MI-11/28th St/Exit 43 (I-96) to Cascade Rd/Exit 40 (I-96) due to accident.,I-96 W,MI,0.0,Mostly Cloudy,True
+2459530,A-2459531,2,42.94432000000001,-85.5666,At Cascade Rd/Exit 40 - Accident.,I-96 W,MI,0.0,Cloudy,True
+2484528,A-2484529,2,42.94432000000001,-85.5666,At Cascade Rd/Exit 40 - Accident. Left lane blocked.,I-96 W,MI,0.0,Partly Cloudy,True
+2498185,A-2498186,2,42.94432000000001,-85.5666,At Cascade Rd/Exit 40 - Accident.,I-96 W,MI,0.0,Light Snow,True
+2653822,A-2653823,2,42.951031,-85.567784,Between Cascade Rd/Exit 40 and M-11/28th St/Exit 43 - Accident. Left lane blocked.,I-96 E,MI,0.11,Rain,True
+2697756,A-2697757,2,42.951031,-85.567784,At Cascade Rd/Exit 40 - Accident. Right lane blocked.,I-96 E,MI,0.0,Overcast,True

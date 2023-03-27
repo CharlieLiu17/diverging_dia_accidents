@@ -1,0 +1,13 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+527712,A-527713,2,42.277418,-122.810894,A disabled vehicle is creating a hazard causing no to minimum delays. Use caution.,I-5 N,OR,0.0,Mostly Cloudy,True
+718322,A-718323,2,42.277418,-122.810894,Hazardous debris is causing no to minimum delays. Use caution.,I-5 N,OR,0.0,Fair,True
+1802668,A-1802669,2,42.277418,-122.810894,A crash has occurred causing no to minimum delays. Use caution.,I-5 N,OR,0.0,Fair,True
+2096982,A-2096983,2,42.27725,-122.81069,At Fern Valley Rd/Exit 24 - Accident.,Pacific Highway 1 N,OR,0.0,Fair,True
+2109419,A-2109420,2,42.27725,-122.81069,At Fern Valley Rd/Exit 24 - Accident.,Pacific Highway 1 N,OR,0.0,Fair,True
+2140410,A-2140411,2,42.27725,-122.81069,At Fern Valley Rd/Exit 24 - Accident.,Pacific Highway 1 N,OR,0.0,Fair,True
+2140434,A-2140435,2,42.27725,-122.81069,At Fern Valley Rd/Exit 24 - Accident.,Pacific Highway 1 N,OR,0.0,Fair,True
+2162175,A-2162176,2,42.27725,-122.81069,At Fern Valley Rd/Exit 24 - Accident.,Pacific Highway 1 N,OR,0.0,Partly Cloudy,True
+2182864,A-2182865,2,42.27743,-122.81087,At Fern Valley Rd/Exit 24 - Accident.,I-5 N,OR,0.0,Fair,True
+2392679,A-2392680,2,42.27725,-122.81069,At Fern Valley Rd/Exit 24 - Accident.,Pacific Highway 1 N,OR,0.0,Partly Cloudy,True
+2460501,A-2460502,2,42.27725,-122.81069,At Fern Valley Rd/Exit 24 - Accident.,Pacific Highway 1 N,OR,0.0,Fair,True
+2792066,A-2792067,2,42.284381,-122.818802,At Fern Valley Rd/Exit 24 - Accident.,I-5 S,OR,0.0,Cloudy,True

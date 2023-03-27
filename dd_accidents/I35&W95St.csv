@@ -1,0 +1,17 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+331395,A-331396,2,38.958944,-94.730334,Incident on I-35 NB near 95TH ST Left lane blocked.,I-35 N,KS,0.0,Fair,True
+543422,A-543423,2,38.95894600000001,-94.730333,Incident on I-35 NB near 95TH ST Left shoulder closed.,I-35 N,KS,0.0,Thunder / Windy,True
+647629,A-647630,2,38.958961,-94.730593,Stationary traffic on US-56 W - US-169 S - US-50 W - I-35 S from W 87th St/Exit 225 (I-35) to 119th St/Exit 220 (I-35) due to accident.,I-35 S,KS,0.0,Cloudy,True
+755808,A-755809,2,38.95894600000001,-94.730333,Accident on 95th St/Exit 224 (I-35) from W 87th St/Exit 225 (I-35) to US-56 E - I-35 N - US-169 N.,I-35 N,KS,0.0,Fair,True
+955334,A-955335,2,38.95894600000001,-94.730333,Accident on 95th St/Exit 224 (I-35) from W 87th St/Exit 225 (I-35) to US-56 E - I-35 N - US-169 N.,I-35 N,KS,0.0,Fair,True
+1489613,A-1489614,2,38.958961,-94.730593,Slow traffic on US-56 W - US-169 S - I-35 S from W 87th St/Exit 225 (I-35) to I-435/Exit 222 (I-35) due to accident.,I-35 S,KS,0.0,Fair,True
+2254924,A-2254925,2,38.95911,-94.73045,At 95th St/Exit 224 - Accident. Right lane blocked. emergency vehicles at scene.,US-56 W,KS,0.0,Fair,True
+2650213,A-2650214,2,38.95911,-94.73045,Between 95th St/Exit 224 and I-435/KS-10/Exit 222 - Accident.,US-56 W,KS,0.01,Scattered Clouds,True
+2658456,A-2658457,3,38.9547,-94.73422,At 95th St/Exit 224 - Accident. Right lane blocked.,US-169 N,KS,0.08,Light Thunderstorms and Rain,True
+2703369,A-2703370,3,38.95911,-94.73045,At 95th St/Exit 224 - Accident. Left lane blocked.,US-56 W,KS,0.01,Light Snow,True
+2778757,A-2778758,3,38.9547,-94.73422,At 95th St/Exit 224 - Accident. Right lane blocked.,US-169 N,KS,0.0,Fair,True
+2799377,A-2799378,2,38.9547,-94.73422,At 95th St/Exit 224 - Accident. Left lane blocked.,US-169 N,KS,0.01,Light Rain,True
+2809708,A-2809709,2,38.95911,-94.73045,At 95th St/Exit 224 - Accident. Right lane blocked.,US-56 W,KS,0.0,Fair,True
+2811570,A-2811571,3,38.9547,-94.73422,At 95th St/Exit 224 - Accident.,US-169 N,KS,0.0,Fair,True
+2836746,A-2836747,2,38.9547,-94.73422,At 95th St/Exit 224 - Accident. Lane blocked.,US-169 N,KS,0.0,Fair,True
+2838451,A-2838452,2,38.95911,-94.73045,At 95th St/Exit 224 - Accident.,US-56 W,KS,0.0,Fair,True

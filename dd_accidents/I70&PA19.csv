@@ -1,0 +1,7 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+656151,A-656152,2,40.185296,-80.230632,Incident on I-70 EB near PA-136 Road closed. Take alternate route.,I-70 E,PA,0.0,Cloudy,True
+1534400,A-1534401,2,40.185445,-80.231148,Multi vehicle crash on I-70 eastbound between Mile Post: 18.0 and Mile Post: 18.5. There is a lane restriction.,I-70 E,PA,0.0,Fair,True
+1580497,A-1580498,2,40.185445,-80.231148,Slow traffic on I-70 E - I-79 S from I-70/I-79 (Washington) (West) (I-79/I-70) to US-19/Murtland Ave/Exit 19 (I-79/I-70) due to accident.,I-70 E,PA,0.0,Fair,True
+1708147,A-1708148,2,40.185445,-80.231148,Multi vehicle crash on I-70 eastbound between Mile Post: 18.0 and Mile Post: 18.5. There is a lane restriction.,I-70 E,PA,0.0,Fair,True
+1738088,A-1738089,2,40.179808,-80.22385899999998,Crash on I-70 eastbound between Exit 20: PA 136 - BEAU STREET and Exit 25: PA 519 - EIGHTY-FOUR/GLYDE. All lanes closed., E Beau St,PA,0.02,Light Rain,True
+1875372,A-1875373,2,40.185296,-80.230632,Slow traffic on I-70 E - I-79 S from I-70/I-79 (Washington) (West) (I-79/I-70) to I-70/I-79 (Washington) (East) (I-79/I-70) due to accident.,I-70 E,PA,0.0,Cloudy,True

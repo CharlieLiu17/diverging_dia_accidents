@@ -1,0 +1,6 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+295700,A-295701,2,46.846915,-96.773983,Incident on I-94 EB near US-75 Drive with caution.,I-94 E,MN,0.0,Fair,True
+506755,A-506756,2,46.846915,-96.773983,Incident on I-94 EB near US-75 Drive with caution.,I-94 E,MN,0.0,Mostly Cloudy,True
+586246,A-586247,2,46.846915,-96.773983,Incident on I-94 EB near US-75 Drive with caution.,I-94 E,MN,0.0,Cloudy / Windy,True
+592019,A-592020,2,46.846958,-96.762318,Stationary traffic on I-94 E - US-52 E from exit [1B] to exit [2B] due to accident.,I-94 E,MN,0.0,Light Snow / Windy,True
+1908233,A-1908234,2,46.846958,-96.762318,Incident on I-94 EB near US-75 Drive with caution.,I-94 E,MN,0.0,Light Snow,True

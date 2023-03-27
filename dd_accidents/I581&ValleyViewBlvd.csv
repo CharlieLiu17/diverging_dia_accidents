@@ -1,0 +1,7 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+446934,A-446935,2,37.299854,-79.962571,Incident on I-581 SB near MM 3 Drive with caution.,I-581 S,VA,0.0,Cloudy,True
+476965,A-476966,2,37.299854,-79.962571,Incident on I-581 SB near MM 3 Expect long delays.,I-581 S,VA,0.0,Fair,True
+827182,A-827183,2,37.299854,-79.962571,On I-581 at mile marker 3 in the City of Roanoke motorists can expect delays due to a multi-vehicle crash. All south lanes are closed.,I-581 S,VA,0.0,Fair,True
+919552,A-919553,2,37.299854,-79.962571,Incident on I-581 SB near MM 3 Expect long delays.,I-581 S,VA,0.0,Fair,True
+1189599,A-1189600,2,37.299854,-79.962571,On I-581 at mile marker 3 in the City of Roanoke motorists can expect delays due to a multi-vehicle crash. All south lanes are closed.,I-581 S,VA,0.0,Fair,True
+1852365,A-1852366,2,37.299854,-79.962571,Incident on I-581 SB near MM 3 Expect delays.,I-581 S,VA,0.0,Fair,True

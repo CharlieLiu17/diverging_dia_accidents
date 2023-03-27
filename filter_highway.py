@@ -16,11 +16,12 @@ def filter_highway():
 
     #I-15 & Timpanogos Highway
     # 40.431435, -111.890985
-    dd_filtered_df = precipitation_filtered_df.loc[(precipitation_filtered_df['Start_Lat'] < 40.431435 + .006)
-                                                    & (precipitation_filtered_df['Start_Lat'] > 40.431435 - .006)
-                                                    & (precipitation_filtered_df['Start_Lng'] < -111.890985 + .006)
-                                                    & (precipitation_filtered_df['Start_Lng'] > -111.890985 - .006)]
-    dd_filtered_df.to_csv('dd_accidents/I435&FrontStreet.csv')
+    coordinates = [42.725949, -88.9929]
+    dd_filtered_df = precipitation_filtered_df.loc[(precipitation_filtered_df['Start_Lat'] < coordinates[0] + .006)
+                                                    & (precipitation_filtered_df['Start_Lat'] > coordinates[0] - .006)
+                                                    & (precipitation_filtered_df['Start_Lng'] < coordinates[1] + .006)
+                                                    & (precipitation_filtered_df['Start_Lng'] > coordinates[1] - .006)]
+    dd_filtered_df.to_csv('dd_accidents/I9039&AvalonRoad.csv')
     
     return dd_filtered_df
     #Create a new file

@@ -1,0 +1,5 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+1533191,A-1533192,2,38.871801,-104.833831,Slow traffic on US-85 N - US-87 N - I-25 N from Fontanero St/Exit 144 (I-25) to Garden of the Gods Rd/Exit 146 (I-25) due to accident.,I-25 N,CO,0.0,Cloudy,True
+1844477,A-1844478,2,38.871801,-104.833831,Incident on I-25 NB near BIJOU ST Drive with caution.,I-25 N,CO,0.0,Fair,True
+1862544,A-1862545,2,38.871801,-104.833831,Incident on I-25 NB near BIJOU ST Drive with caution.,I-25 N,CO,0.0,Fair,True
+2182701,A-2182702,3,38.87162,-104.83384,At CO-38/Fillmore St/Exit 145 - Accident.,US-87 N,CO,0.0,Showers in the Vicinity,True
