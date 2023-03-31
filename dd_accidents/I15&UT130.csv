@@ -1,0 +1,7 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+241627,A-241628,2,37.658783,-113.080934,Incident on I-15 SB near I-15 Drive with caution.,I-15 S,UT,0.0,Haze,True
+1175290,A-1175291,2,37.658783,-113.080934,Accident on UT-56/Exit 59 (I-15) from I-15/Exit 57 (I-15) to I-15 S.,I-15 S,UT,0.0,Haze,True
+1268549,A-1268550,2,37.658783,-113.080934,Incident on I-15 SB near MM 57 Expect delays.,I-15 S,UT,0.0,Fair,True
+1756404,A-1756405,2,37.658783,-113.080934,Incident on I-15 SB near I-15 Drive with caution.,I-15 S,UT,0.0,Fair,True
+1846142,A-1846143,2,37.658783,-113.080934,Incident on I-15 SB near MM 57 Expect delays.,I-15 S,UT,0.0,Fair,True
+2044067,A-2044068,2,37.658783,-113.080934,Incident on I-15 SB near I-15 Drive with caution.,I-15 S,UT,0.0,Fair,True

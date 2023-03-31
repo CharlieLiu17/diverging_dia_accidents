@@ -1,0 +1,4 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+597022,A-597023,2,37.979103,-78.218976,Incident on I-64 EB near MM 137 Left lane blocked.,I-64 E,VA,0.0,Fair,True
+1817908,A-1817909,2,37.979103,-78.218976,Incident on I-64 EB near MM 137 Expect delays.,I-64 E,VA,0.0,Partly Cloudy,True
+2052854,A-2052855,2,37.979103,-78.218976,Incident on I-64 EB near MM 137 Expect delays.,I-64 E,VA,0.0,Partly Cloudy,True

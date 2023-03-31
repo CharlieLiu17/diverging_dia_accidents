@@ -1,0 +1,4 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+1558274,A-1558275,2,39.273571,-94.669431,Incident on I-29 NB near TIFFANY SPRINGS PKY Left lane blocked.,I-29 N,MO,0.0,Mostly Cloudy,True
+1736671,A-1736672,2,39.27336500000001,-94.669526,Incident on I-29 SB near TIFFANY SPRINGS PKY Right shoulder closed.,I-29 S,MO,0.0,Fair,True
+2604835,A-2604836,2,39.27594000000001,-94.67138,At Tiffany Springs Pky/Exit 10 - Accident.,I-29 S,MO,0.0,Light Drizzle,True

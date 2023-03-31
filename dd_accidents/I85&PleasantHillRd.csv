@@ -1,0 +1,4 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+391832,A-391833,2,33.94991,-84.134513,Incident on I-85 NB near PLEASANTHILL RD Drive with caution.,I-85 N,GA,0.0,Fair,True
+1255249,A-1255250,2,33.94991,-84.134513,Incident on I-85 NB near PLEASANT HILL RD Drive with caution.,I-85 N,GA,0.0,Fog,True
+1804415,A-1804416,2,33.94991,-84.134513,Incident on I-85 NB near PLEASANT HILL RD Left lane blocked.,I-85 N,GA,0.17,Light Rain,True

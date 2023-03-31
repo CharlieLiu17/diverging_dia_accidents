@@ -1,0 +1,6 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+845775,A-845776,2,37.046896,-94.473634,Incident on I-44 near I-49 Drive with caution.,I-44 W,MO,0.0,Fair,True
+1599390,A-1599391,2,37.046445,-94.482582,Incident on I-44 near CONNECTICUT AVE Drive with caution.,I-44 W,MO,0.0,Cloudy,True
+1680675,A-1680676,2,37.046896,-94.473634,Incident on I-44 near I-49 Drive with caution.,I-44 W,MO,0.0,Fair,True
+1697057,A-1697058,2,37.046445,-94.482582,Incident on I-44 near CONNECTICUT AVE Drive with caution.,I-44 W,MO,0.0,Cloudy,True
+2575083,A-2575084,3,37.048036,-94.478508,At MO-FF/E 32nd St - Accident. Left lane blocked., S Range Line Rd,MO,0.02,Light Snow,True

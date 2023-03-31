@@ -1,0 +1,31 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+33387,A-33388,3,33.91953,-84.33372,At Ashford Dunwoody Rd/Exit 29 - Accident.,GA-407 W,GA,0.0,Overcast,True
+523850,A-523851,2,33.919622,-84.333525,Slow traffic on I-285 W - GA-407 W from Chamblee Dunwoody Rd/Exit 30 (I-285) to US-19/Roswell Rd/Exit 25 (I-285) due to accident.,GA-407 W,GA,0.19,Light Rain,True
+915452,A-915453,2,33.919622,-84.333525,Incident on I-285 WB near ASHFORD DUNWOODY RD Drive with caution.,GA-407 W,GA,0.0,Fair,True
+1108851,A-1108852,2,33.919622,-84.333525,Slow traffic on I-285 W - GA-407 W from Chamblee Dunwoody Rd/Exit 30 (I-285) to New Northside Dr/Exit 22 (I-285) due to accident.,GA-407 W,GA,0.0,Mostly Cloudy,True
+1351407,A-1351408,2,33.919612,-84.333511,Incident on I-285 WB near ASHFORD DUNWOODY RD Drive with caution.,GA-407 W,GA,0.01,Cloudy,True
+1351408,A-1351409,2,33.919622,-84.333525,Incident on I-285 WB near ASHFORD DUNWOODY RD Drive with caution.,GA-407 W,GA,0.0,Fair,True
+1736387,A-1736388,2,33.919612,-84.333511,Incident on I-285 WB near ASHFORD DUNWOODY RD Road closed. Take alternate route.,GA-407 W,GA,0.0,Partly Cloudy,True
+1768073,A-1768074,2,33.919622,-84.333525,Incident on I-285 WB near ASHFORD DUNWOODY RD Left lane blocked.,GA-407 W,GA,0.0,Partly Cloudy,True
+1940071,A-1940072,2,33.919622,-84.333525,Queuing traffic on I-285 from Chamblee Dunwoody Rd/Exit 30 (I-285) to Peachtree Dunwoody Rd/Exit 28 (I-285) due to accident.,GA-407 W,GA,0.0,Fair,True
+1959082,A-1959083,2,33.919612,-84.333511,Incident on I-285 WB near ASHFORD DUNWOODY RD Left lane blocked.,GA-407 W,GA,0.0,Cloudy,True
+1962691,A-1962692,2,33.919622,-84.333525,Slow traffic on I-285 W - GA-407 W - US-19 S from Chamblee Dunwoody Rd/Exit 30 (I-285) to Riverside Dr/Exit 24 (I-285) due to accident.,GA-407 W,GA,0.0,Mostly Cloudy,True
+1964884,A-1964885,2,33.919612,-84.333511,Incident on I-285 WB near ASHFORD DUNWOODY RD Expect long delays.,GA-407 W,GA,0.0,Fair,True
+2032380,A-2032381,2,33.919622,-84.333525,Queuing traffic on I-285 from Chamblee Dunwoody Rd/Exit 30 (I-285) to Peachtree Dunwoody Rd/Exit 28 (I-285) due to accident.,GA-407 W,GA,0.0,Fair,True
+2135142,A-2135143,2,33.91953,-84.33372,Between Chamblee Dunwoody Rd/Exit 30 and Peachtree Dunwoody Rd/Exit 28 - Overturned vehicle. Two lanes blocked.,GA-407 W,GA,0.0,Mostly Cloudy,True
+2176942,A-2176943,3,33.91953,-84.33372,Between Chamblee Dunwoody Rd/Exit 30 and Peachtree Dunwoody Rd/Exit 28 - Accident. Three lanes blocked.,GA-407 W,GA,0.0,Cloudy,True
+2181990,A-2181991,2,33.91953,-84.33372,At Ashford Dunwoody Rd/Exit 29 - Accident. Hard shoulder blocked.,GA-407 W,GA,0.0,Fair,True
+2236750,A-2236751,2,33.91953,-84.33372,At Ashford Dunwoody Rd/Exit 29 - Accident.,GA-407 W,GA,0.0,Cloudy,True
+2291811,A-2291812,3,33.91953,-84.33372,At Ashford Dunwoody Rd/Exit 29 - Accident.,GA-407 W,GA,0.0,Fair,True
+2320995,A-2320996,2,33.91953,-84.33372,At Ashford Dunwoody Rd/Exit 29 - Accident.,GA-407 W,GA,0.0,Fair,True
+2344912,A-2344913,2,33.91953,-84.33372,At Ashford Dunwoody Rd/Exit 29 - Accident. Center lane blocked.,GA-407 W,GA,0.04,Light Rain,True
+2394836,A-2394837,3,33.91953,-84.33372,Between Ashford Dunwoody Rd/Exit 29 and Peachtree Dunwoody Rd/Exit 28 - Accident.,GA-407 W,GA,0.0,Cloudy,True
+2420748,A-2420749,2,33.91953,-84.33372,At Ashford Dunwoody Rd/Exit 29 - Accident. Right lane blocked.,GA-407 W,GA,0.0,Fair,True
+2715643,A-2715644,2,33.91953,-84.33372,At Ashford Dunwoody Rd/Exit 29 - Accident.,GA-407 W,GA,0.0,Overcast,True
+2781722,A-2781723,4,33.91953,-84.33372,Closed at Ashford Dunwoody Rd/Exit 29 - Road closed due to accident.,GA-407 W,GA,0.0,Fair,True
+2806264,A-2806265,2,33.91953,-84.33372,At Ashford Dunwoody Rd/Exit 29 - Accident. Right lane blocked.,GA-407 W,GA,0.0,Partly Cloudy,True
+2810507,A-2810508,2,33.91953,-84.33372,At Ashford Dunwoody Rd/Exit 29 - Accident. Left lane blocked.,GA-407 W,GA,0.0,Mostly Cloudy,True
+2834438,A-2834439,2,33.91953,-84.33372,At Ashford Dunwoody Rd/Exit 29 - Accident. Right lane blocked.,GA-407 W,GA,0.0,Mostly Cloudy,True
+2834995,A-2834996,3,33.91953,-84.33372,At Ashford Dunwoody Rd/Exit 29 - Accident.,GA-407 W,GA,0.0,Partly Cloudy,True
+2836311,A-2836312,3,33.91953,-84.33372,At Ashford Dunwoody Rd/Exit 29 - Accident. Three lanes blocked.,GA-407 W,GA,0.0,Fair,True
+2842030,A-2842031,3,33.91953,-84.33372,At Ashford Dunwoody Rd/Exit 29 - Accident.,GA-407 W,GA,0.0,Fair,True

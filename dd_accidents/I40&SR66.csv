@@ -1,0 +1,6 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+984899,A-984900,2,35.984508,-83.603267,Slow traffic on I-40 W from Deep Springs Rd/Exit 412 (I-40) to Midway Rd/Exit 402 (I-40) due to accident.,I-40 W,TN,0.0,Fair,True
+1844590,A-1844591,4,35.984505,-83.603264,Road I-40 is closed from Deep Springs Rd/Exit 412 (I-40) to TN-66/Exit 407 (I-40) due to accident.,I-40 W,TN,0.0,Cloudy,True
+1874414,A-1874415,4,35.984505,-83.603264,Closed road from TN-66 exit [407] to Winfield Dunn Pkwy due to accident.,I-40 W,TN,0.0,Cloudy,True
+1891972,A-1891973,2,35.984505,-83.603264,Accident from TN-66 exit [407] to Winfield Dunn Pkwy.,I-40 W,TN,0.0,Cloudy,True
+1926555,A-1926556,2,35.984505,-83.603264,Accident from TN-66 exit [407] to Winfield Dunn Pkwy.,I-40 W,TN,0.0,Cloudy,True

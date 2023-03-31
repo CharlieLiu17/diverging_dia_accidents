@@ -1,0 +1,7 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+267762,A-267763,2,35.433043,-80.661073,Near Concord / Mile Marker 55 Heading North. The road is closed near NC-73 (Davidson Hwy)&amp;nbsp;,I-85 N,NC,0.0,Fair,True
+381513,A-381514,2,35.436775,-80.654605,Stationary traffic on I-85 S from US-29 Alt/Exit 58 (I-85) to Poplar Tent Rd/Exit 52 (I-85) due to accident.,I-85 S,NC,0.0,Rain,True
+1114945,A-1114946,2,35.436775,-80.654605,Stationary traffic on I-85 S from US-29 Alt/Exit 58 (I-85) to Speedway Blvd/Exit 49 (I-85) due to accident.,I-85 S,NC,0.0,Fair,True
+1905894,A-1905895,2,35.433043,-80.661073,In Concord / Mile Marker 55 Heading North. The left two lanes are closed near Exit 55 (NC-73).&amp;nbsp;,I-85 N,NC,0.0,Fair,True
+2782205,A-2782206,2,35.43682000000001,-80.65449,At NC-73/Exit 55 - Accident. Lane blocked.,I-85 S,NC,0.0,Fair,True
+2843457,A-2843458,3,35.43682000000001,-80.65449,At NC-73/Exit 55 - Accident.,I-85 S,NC,0.0,Cloudy,True

@@ -1,0 +1,39 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+531907,A-531908,2,40.727618,-111.986307,Incident on BANGERTER HWY NB near BANGERTER HWY Drive with caution., Bangerter Hwy,UT,0.0,Mostly Cloudy,True
+567530,A-567531,2,40.727595,-111.986507,Accident from Bangerter Hwy to UT-201 W.,Bangerter Hwy,UT,0.0,Partly Cloudy,True
+781520,A-781521,2,40.722975,-111.98622,Slow traffic on UT-154 from W 3100 S (Bangerter Hwy/UT-154) to UT-201/W 2100 S (Bangerter Hwy/UT-154) due to accident., Bangerter Hwy,UT,0.0,Fair,True
+1267037,A-1267038,2,40.722975,-111.98622,Incident on BANGERTER HWY NB near BANGERTER HWY Drive with caution., Bangerter Hwy,UT,0.0,Fair,True
+1428638,A-1428639,2,40.722975,-111.98622,Incident on BANGERTER HWY near BANGERTER HWY Drive with caution., Bangerter Hwy,UT,0.0,Partly Cloudy,True
+1437237,A-1437238,2,40.727618,-111.986307,Accident on UT-201/W 2100 S (Bangerter Hwy/UT-154) from California Ave (Bangerter Hwy/UT-154) to UT-154., Bangerter Hwy,UT,0.0,Mostly Cloudy,True
+1668535,A-1668536,2,40.727618,-111.986307,Incident on BANGERTER HWY NB near BANGERTER HWY Drive with caution., Bangerter Hwy,UT,0.0,Partly Cloudy,True
+1694154,A-1694155,2,40.722975,-111.98622,Incident on 3835 BANGERTER HWY NB near 3835 BANGERTER HWY Drive with caution., Bangerter Hwy,UT,0.0,Mostly Cloudy,True
+1842751,A-1842752,2,40.722975,-111.98622,Incident on BANGERTER HWY NB near BANGERTER HWY Drive with caution., Bangerter Hwy,UT,0.0,Mostly Cloudy,True
+1905126,A-1905127,2,40.722975,-111.98622,Incident on SOUTH FRONTAGE RD EB near SOUTH FRONTAGE RD Drive with caution., Bangerter Hwy,UT,0.0,Mostly Cloudy,True
+1924627,A-1924628,2,40.722975,-111.98622,Stationary traffic on UT-154 from W 3100 S (Bangerter Hwy/UT-154) to UT-201/W 2100 S (Bangerter Hwy/UT-154) due to accident., Bangerter Hwy,UT,0.0,Fair,True
+2089374,A-2089375,2,40.72342,-111.98624,At UT-201/W 2100 S/W 21st S - Accident.,Bangerter Hwy,UT,0.0,Mostly Cloudy,True
+2115351,A-2115352,2,40.72342,-111.98624,At UT-201/W 2100 S/W 21st S - Accident.,Bangerter Hwy,UT,0.0,Mostly Cloudy,True
+2147934,A-2147935,2,40.72342,-111.98624,At UT-201/W 2100 S/W 21st S - Accident. Lane closed.,Bangerter Hwy,UT,0.0,Fair,True
+2189797,A-2189798,2,40.72342,-111.98624,At UT-201/W 2100 S/W 21st S - Accident.,Bangerter Hwy,UT,0.0,Mostly Cloudy / Windy,True
+2189804,A-2189805,2,40.72342,-111.98624,At UT-201/W 2100 S/W 21st S - Accident.,Bangerter Hwy,UT,0.0,Mostly Cloudy,True
+2218226,A-2218227,2,40.72691,-111.9857,Ramp to UT-154/Bangerter Hwy - Accident. Right lane closed.,Bangerter Hwy,UT,0.0,Mostly Cloudy / Windy,True
+2290812,A-2290813,2,40.72342,-111.98624,At UT-201/W 2100 S/W 21st S - Accident.,Bangerter Hwy,UT,0.0,Partly Cloudy,True
+2290846,A-2290847,2,40.72342,-111.98624,At UT-201/W 2100 S/W 21st S - Accident.,Bangerter Hwy,UT,0.0,Mostly Cloudy,True
+2309869,A-2309870,2,40.72296,-111.98623,At UT-201/W 2100 S/W 21st S - Accident., Bangerter Hwy,UT,0.0,Cloudy,True
+2327907,A-2327908,2,40.72342,-111.98624,At UT-201/W 2100 S/W 21st S - Accident. Left lane closed.,Bangerter Hwy,UT,0.0,Cloudy,True
+2347654,A-2347655,2,40.72691,-111.9857,Ramp to UT-154/Bangerter Hwy - Accident.,Bangerter Hwy,UT,0.0,Partly Cloudy,True
+2357933,A-2357934,2,40.72342,-111.98624,At UT-201/W 2100 S/W 21st S - Accident.,Bangerter Hwy,UT,0.0,Cloudy,True
+2357948,A-2357949,2,40.72342,-111.98624,At UT-201/W 2100 S/W 21st S - Accident. Lane closed.,Bangerter Hwy,UT,0.0,Cloudy,True
+2410910,A-2410911,2,40.72324,-111.98624,At UT-201/W 2100 S/W 21st S - Accident.,Bangerter Hwy,UT,0.0,Mostly Cloudy,True
+2434482,A-2434483,2,40.72324,-111.98624,At UT-201/W 2100 S/W 21st S - Accident.,Bangerter Hwy,UT,0.0,Cloudy,True
+2438599,A-2438600,2,40.72324,-111.98624,At UT-201/W 2100 S/W 21st S - Accident.,Bangerter Hwy,UT,0.0,Fair,True
+2440118,A-2440119,2,40.72324,-111.98624,At UT-201/W 2100 S/W 21st S - Accident.,Bangerter Hwy,UT,0.0,Partly Cloudy,True
+2444916,A-2444917,2,40.72324,-111.98624,At UT-201/W 2100 S/W 21st S - Accident.,Bangerter Hwy,UT,0.0,Fair,True
+2462535,A-2462536,2,40.723241,-111.98623899999998,At UT-201/W 2100 S/W 21st S - Accident. Lane closed.,Bangerter Hwy,UT,0.0,Fair,True
+2778837,A-2778838,2,40.72691,-111.9857,Ramp to UT-201 Westbound - Accident.,Bangerter Hwy,UT,0.0,Light Rain,True
+2783968,A-2783969,2,40.722979,-111.986231,At UT-201/W 2100 S/W 21st S - Accident.,Bangerter Hwy,UT,0.0,Mostly Cloudy,True
+2784231,A-2784232,2,40.72764,-111.98653,At UT-201/W 2100 S/W 21st S - Accident.,Bangerter Hwy,UT,0.0,Fair,True
+2785730,A-2785731,2,40.72786,-111.98636,At California Ave - Accident., Bangerter Hwy,UT,0.0,Light Rain,True
+2800555,A-2800556,2,40.72691,-111.9857,Ramp to UT-154/Bangerter Hwy Southbound - Accident. Lane closed.,Bangerter Hwy,UT,0.0,Mostly Cloudy,True
+2808731,A-2808732,2,40.72786,-111.98636,At California Ave - Accident., Bangerter Hwy,UT,0.0,Mostly Cloudy,True
+2812182,A-2812183,2,40.722979,-111.986231,At UT-201/W 2100 S/W 21st S - Accident.,Bangerter Hwy,UT,0.0,Cloudy / Windy,True
+2826295,A-2826296,2,40.72786,-111.98636,At California Ave - Accident. Left lane closed., Bangerter Hwy,UT,0.0,Mostly Cloudy,True

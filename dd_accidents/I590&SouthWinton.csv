@@ -1,0 +1,4 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+1609449,A-1609450,2,43.1075,-77.58065699999999,Slow traffic on I-590 N - Rochester Outer Loop Hwy from I-390 (I-590) to Winton Rd/Exit 1 (I-590) due to accident.,I-590 N,NY,0.0,Cloudy,True
+1665234,A-1665235,2,43.108066,-77.575567,Incident on S WINTON RD near I-590 Expect delays.,S Winton Rd,NY,0.01,Cloudy,True
+2011007,A-2011008,2,43.108066,-77.575567,Incident on S WINTON RD near I-590 Expect delays.,S Winton Rd,NY,0.0,Cloudy,True

@@ -1,0 +1,12 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+15112,A-15113,3,38.80004,-90.62428,At MO-C/Mid Rivers ML Dr/Exit 222 - Accident.,I-70 E,MO,0.0,Haze,True
+21616,A-21617,2,38.80004,-90.62428,At MO-C/Mid Rivers ML Dr/Exit 222 - Accident.,I-70 E,MO,0.07,Light Rain,True
+171999,A-172000,2,38.80004,-90.62428,At MO-C/Mid Rivers ML Dr/Exit 222 - Accident.,I-70 E,MO,0.12,Thunderstorms and Rain,True
+1200421,A-1200422,2,38.799719,-90.62055,Incident on I-70 near MID RIVERS MALL DR Drive with caution.,I-70 E,MO,0.0,Fair,True
+1209720,A-1209721,2,38.799537,-90.616382,Incident on I-70 near MID RIVERS MALL DR Drive with caution.,I-70 W,MO,0.0,Fair,True
+1601043,A-1601044,2,38.799676,-90.620157,Stationary traffic on I-70 E from MO-79/Exit 220 (I-70) to Cave Springs Rd/Exit 225 (I-70) due to accident.,I-70 E,MO,0.0,Cloudy,True
+2040822,A-2040823,2,38.799719,-90.62055,Incident on I-70 near MID RIVERS MALL DR Drive with caution.,I-70 E,MO,0.0,Fair,True
+2618641,A-2618642,2,38.80004,-90.62428,At MO-C/Mid Rivers ML Dr/Exit 222 - Accident. Right lane blocked.,I-70 E,MO,0.37,Overcast,True
+2681755,A-2681756,3,38.80004,-90.62428,At MO-C/Mid Rivers ML Dr/Exit 222 - Accident.,I-70 E,MO,0.08,Light Rain,True
+2792449,A-2792450,3,38.80004,-90.62428,At MO-C/Mid Rivers ML Dr/Exit 222 - Accident. Left lane blocked.,I-70 E,MO,0.0,Haze,True
+2809130,A-2809131,2,38.80004,-90.62428,At MO-C/Mid Rivers ML Dr/Exit 222 - Accident. Right lane blocked.,I-70 E,MO,0.0,Partly Cloudy,True

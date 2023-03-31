@@ -1,0 +1,8 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+463236,A-463237,2,30.553203000000003,-97.692543,Slow traffic on I-35 S from FM-1431/Chandler St/Exit 256 (I-35) to I-35/FM-3406 (I-35) due to accident.,I-35 S,TX,0.0,Fair,True
+499907,A-499908,2,30.553216,-97.692559,Slow traffic on I-35 S from FM-1431/Chandler St/Exit 256 (I-35) to I-35 Bus (I-35) due to accident.,I-35 S,TX,0.0,Cloudy,True
+1102213,A-1102214,2,30.553216,-97.692559,Stationary traffic on I-35 S from FM-1431/Chandler St/Exit 256 (I-35) to I-35 Bus (I-35) due to accident.,I-35 S,TX,0.0,Mostly Cloudy,True
+1304115,A-1304116,2,30.553203000000003,-97.692543,Slow traffic on I-35 S from FM-1431/Chandler St/Exit 256 (I-35) to I-35/FM-3406 (I-35) due to accident.,I-35 S,TX,0.0,Fair,True
+1423743,A-1423744,2,30.553216,-97.692559,Stationary traffic on I-35 S from FM-1431/Chandler St/Exit 256 (I-35) to US-79/Sam Bass Rd (I-35) due to accident.,I-35 S,TX,0.0,Fair,True
+1746918,A-1746919,2,30.553216,-97.692559,Stationary traffic on I-35 S from FM-1431/Chandler St/Exit 256 (I-35) to FM-620/Exit 252 (I-35) due to accident.,I-35 S,TX,0.0,Cloudy,True
+1896430,A-1896431,2,30.553216,-97.692559,Slow traffic on I-35 S from FM-1431/Chandler St/Exit 256 (I-35) to I-35/FM-3406 (I-35) due to accident.,I-35 S,TX,0.0,Fair,True

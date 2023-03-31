@@ -1,0 +1,3 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+2440049,A-2440050,2,45.58951,-94.19683,At CR-134/20th St N - Accident., State Highway 15,MN,0.0,Fair,True
+2443843,A-2443844,2,45.58951,-94.19683,At CR-134/20th St N - Accident., State Highway 15,MN,0.0,Cloudy,True

@@ -1,0 +1,12 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+879338,A-879339,2,40.360595,-111.785706,Stationary traffic on I-15 S from exit [276] to exit [275] due to accident.,S 500 E,UT,0.0,Fair,True
+1148661,A-1148662,2,40.360595,-111.785706,Slow traffic on I-15 S from W Main St/Exit 281 (I-15) to 1600/Exit 276 (I-15) due to accident.,S 500 E,UT,0.0,Mostly Cloudy,True
+1190705,A-1190706,2,40.360595,-111.785706,Accident on W 6400 N (S 500 E) from I-15 (S 500 E) to UT-180.,S 500 E,UT,0.05,Fair,True
+1769817,A-1769818,2,40.360832,-111.785706,Incident on 500 E NB near 500 E Drive with caution., S 500 E,UT,0.0,Fair,True
+2195755,A-2195756,2,40.36011,-111.78654,Ramp to UT-180/S 500 E Northbound - Accident. Lane closed., S 500 E,UT,0.0,Cloudy,True
+2236946,A-2236947,2,40.36111,-111.78436,Ramp to S 500 E - Accident.,S 500 E,UT,0.0,Fair,True
+2329676,A-2329677,2,40.36011,-111.78654,Ramp to UT-180/S 500 E Northbound - Accident., S 500 E,UT,0.01,Light Snow,True
+2410888,A-2410889,3,40.36328,-111.78999,At UT-180/5th/Exit 276 - Accident.,I-15 S,UT,0.0,Fair,True
+2623913,A-2623914,2,40.35786,-111.78097,Between UT-180/5th/Exit 276 and UT-145/Main Street/Exit 278 - Accident.,I-15 N,UT,0.0,Mostly Cloudy,True
+2777282,A-2777283,2,40.36328,-111.78999,At UT-180/5th/Exit 276 - Accident. Center lane blocked.,I-15 S,UT,0.0,Mostly Cloudy,True
+2796168,A-2796169,2,40.35786,-111.78097,At UT-180/5th/Exit 276 - Accident. Lane blocked.,I-15 N,UT,0.0,Cloudy,True

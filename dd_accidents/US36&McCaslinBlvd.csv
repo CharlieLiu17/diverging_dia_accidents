@@ -1,0 +1,7 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+2202373,A-2202374,3,39.95904,-105.16903,At McCaslin Blvd - Accident.,Denver Boulder Tpke E,CO,0.0,Mostly Cloudy,True
+2284305,A-2284306,3,39.95904,-105.16903,At McCaslin Blvd - Accident.,Denver Boulder Tpke E,CO,0.0,Mostly Cloudy,True
+2339061,A-2339062,2,39.95935,-105.1693,At CO-157/Boulder Rd/Foothill Pky - Accident. Right lane blocked.,Denver Boulder Tpke W,CO,0.0,Partly Cloudy,True
+2489881,A-2489882,3,39.95913400000001,-105.169279,At McCaslin Blvd - Accident.,US-36 E,CO,0.0,Partly Cloudy,True
+2793131,A-2793132,3,39.959146,-105.16927,At McCaslin Blvd - Accident.,US-36 E,CO,0.0,Light Rain with Thunder,True
+2804729,A-2804730,3,39.959146,-105.16927,At McCaslin Blvd - Accident.,US-36 E,CO,0.0,Mostly Cloudy,True

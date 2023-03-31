@@ -1,0 +1,17 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+13700,A-13701,4,39.03472,-94.30874,Closed between Woods Chapel Rd/Exit 18 and Little Blue Pky/Exit 17 - Road closed due to accident.,I-70 E,MO,0.0,Light Freezing Rain,True
+147312,A-147313,2,39.03398,-94.30249,Between Woods Chapel Rd/Exit 18 and Little Blue Pky/Exit 17 - Accident.,I-70 W,MO,0.0,Overcast,True
+421143,A-421144,2,39.034612,-94.309141,Slow traffic on I-70 E from Little Blue Pkwy/Exit 17 (I-70) to MO-7/Exit 20 (I-70) due to accident.,I-70 E,MO,0.03,Cloudy,True
+708492,A-708493,2,39.03477700000001,-94.309076,Incident on I-70 near WOODS CHAPEL RD Drive with caution.,I-70 W,MO,0.0,Partly Cloudy,True
+1515821,A-1515822,2,39.034775,-94.3091,Slow traffic on I-70 W from MO-7/Exit 20 (I-70) to Little Blue Pkwy/Exit 17 (I-70) due to accident.,I-70 W,MO,0.0,Fair,True
+1542474,A-1542475,2,39.03477700000001,-94.309076,Incident on I-70 WB near LITTLE BLUE PKY Right shoulder closed.,I-70 W,MO,0.0,Fair,True
+1702611,A-1702612,2,39.03477700000001,-94.309076,Incident on I-70 WB near WOODS CHAPEL RD Expect long delays.,I-70 W,MO,0.0,Cloudy,True
+1715706,A-1715707,2,39.03477700000001,-94.309076,Incident on I-70 WB near LITTLE BLUE PKY Expect long delays.,I-70 W,MO,0.0,Cloudy,True
+1730426,A-1730427,2,39.034612,-94.309141,Slow traffic on I-70 E from Little Blue Pkwy/Exit 17 (I-70) to MO-7/Exit 20 (I-70) due to accident.,I-70 E,MO,0.0,Light Snow,True
+1789136,A-1789137,2,39.03477700000001,-94.309076,Stationary traffic on I-70 from Woods Chapel Rd/Exit 18 (I-70) to Little Blue Pkwy/Exit 17 (I-70) due to accident.,I-70 W,MO,0.0,Cloudy,True
+1801636,A-1801637,2,39.034612,-94.309141,Incident on I-70 EB near WOODS CHAPEL RD Expect long delays.,I-70 E,MO,0.0,Fair,True
+1849778,A-1849779,2,39.034775,-94.3091,Slow traffic on I-70 W from MO-7/Exit 20 (I-70) to Little Blue Pkwy/Exit 17 (I-70) due to accident.,I-70 W,MO,0.0,Fair,True
+2166663,A-2166664,3,39.03398,-94.30249,At Woods Chapel Rd/Exit 18 - Accident. Hard shoulder blocked.,I-70 W,MO,0.0,Fair,True
+2252817,A-2252818,3,39.03398,-94.30249,At Woods Chapel Rd/Exit 18 - Accident. Right lane blocked.,I-70 W,MO,0.07,Rain,True
+2826909,A-2826910,2,39.03383,-94.30253,Between Woods Chapel Rd/Exit 18 and MO-7/Exit 20 - Accident.,I-70 E,MO,0.0,Mostly Cloudy,True
+2828927,A-2828928,4,39.03472,-94.30874,Closed between Woods Chapel Rd/Exit 18 and Little Blue Pky/Exit 17 - Road closed due to accident.,I-70 E,MO,0.0,Fair,True

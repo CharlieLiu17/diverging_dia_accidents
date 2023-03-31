@@ -1,0 +1,12 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+84190,A-84191,3,35.43825,-82.53397,At NC-280/Exit 9 - Accident.,I-26 W,NC,0.01,Clear,True
+267995,A-267996,2,35.43817100000001,-82.53394200000002,Incident on I-26 WB near EXIT 40 Left lane blocked.,I-26 W,NC,0.03,Rain,True
+441506,A-441507,2,35.43817100000001,-82.53394200000002,Incident on I-26 WB near EXIT 40 Road closed. Take alternate route.,I-26 W,NC,0.0,Mostly Cloudy,True
+478317,A-478318,2,35.43817100000001,-82.53394200000002,Near Asheville / Mile Marker 40 Heading West. The left lane is closed near Exit 40 (Airport Boulevard).,I-26 W,NC,0.0,Light Rain,True
+841416,A-841417,2,35.438169,-82.53394,Slow traffic on US-74 W - I-26 W from US-25/Exit 44 (I-26) to NC-146/Exit 37 (I-26) due to accident.,I-26 W,NC,0.0,Partly Cloudy,True
+1358314,A-1358315,2,35.43817100000001,-82.53394200000002,Near Asheville / Mile Marker 40 Heading West. The left lane is closed near Exit 40 (Airport Boulevard).,I-26 W,NC,0.0,Cloudy,True
+1897052,A-1897053,2,35.43817100000001,-82.53394200000002,Near Asheville / Mile Marker 40 Heading West. The left lane is closed near Exit 40 (Airport Rd).,I-26 W,NC,0.0,Fair,True
+1935335,A-1935336,2,35.438169,-82.53394,Stationary traffic on I-26 from US-25/Exit 44 (I-26) to NC-191/Exit 33 (I-26) due to accident.,I-26 W,NC,0.0,Fair,True
+2136659,A-2136660,2,35.44395,-82.53838,At New Airport Road - Accident. Hard shoulder closed.,I-26 E,NC,0.0,Thunder,True
+2288342,A-2288343,2,35.43817,-82.53392,At NC-280 - Accident. Hard shoulder closed.,I-26 W,NC,0.0,Fair,True
+2789515,A-2789516,2,35.43825,-82.53397,At NC-280/New Airport Rd/Exit 40 - Accident. Left lane blocked.,I-26 W,NC,0.07,Light Rain,True

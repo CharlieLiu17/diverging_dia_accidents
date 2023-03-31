@@ -1,0 +1,13 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+148497,A-148498,2,38.94162,-94.79345,At Ridgeview Rd - Accident.,KS-10 W,KS,0.04,Partly Cloudy,True
+170443,A-170444,2,38.94162,-94.79345,At Ridgeview Rd - Accident.,KS-10 W,KS,0.17,Light Thunderstorms and Rain,True
+355326,A-355327,2,38.941458,-94.801636,Accident on S Woodland St (KS-10) from Ridgeview Rd (KS-10) to KS-10 E.,KS-10 E,KS,0.0,Fair,True
+765041,A-765042,2,38.941458,-94.801636,Incident on KS-10 EB near RIDGEVIEW RD Drive with caution.,KS-10 E,KS,0.0,Fair,True
+1146800,A-1146801,2,38.941458,-94.801636,Accident from KS-10 E to S Ridgeview Rd.,KS-10 E,KS,0.0,Fair,True
+1881584,A-1881585,2,38.941458,-94.801636,Incident on KS-10 EB near RIDGEVIEW RD Right shoulder closed.,KS-10 E,KS,0.0,Fair / Windy,True
+2184815,A-2184816,3,38.94147,-94.80164,At Ridgeview Rd - Accident. Left lane blocked.,KS-10 E,KS,0.0,Fair,True
+2583195,A-2583196,2,38.94162,-94.79345,At Ridgeview Rd - Accident.,KS-10 W,KS,0.0,Clear,True
+2678780,A-2678781,2,38.94147,-94.80164,Between Ridgeview Rd and Renner Blvd - Accident.,KS-10 E,KS,0.32,Heavy Rain,True
+2678785,A-2678786,2,38.94147,-94.80164,Between Ridgeview Rd and Renner Blvd - Accident.,KS-10 E,KS,0.14,Rain,True
+2774929,A-2774930,2,38.94162,-94.79345,At Ridgeview Rd - Accident. Left lane blocked.,KS-10 W,KS,0.0,Fair,True
+2796076,A-2796077,2,38.94162,-94.79345,At Ridgeview Rd - Accident.,KS-10 W,KS,0.02,Fair,True

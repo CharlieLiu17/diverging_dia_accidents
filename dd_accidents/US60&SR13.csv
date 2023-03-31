@@ -1,0 +1,7 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+419468,A-419469,2,37.140451,-93.314427,Incident on JAMES RIVER FWY EB near REPUBLIC Drive with caution.,James River Fwy E,MO,0.0,Fair,True
+425852,A-425853,2,37.14077,-93.314446,Stationary traffic on US-160 N - US-60 W - MO-13 W from US-160 (East)/Campbell Ave (US-160/US-60) to US-160 (West)/MO-FF (US-160/US-60) due to accident.,James River Fwy W,MO,0.0,Fair,True
+558535,A-558536,2,37.143799,-93.319169,Stationary traffic from US-160/US-60/James River Fwy/Kansas Expy (US-160/US-60/James River Fwy/MO-13) to W Battlefield St (S Kansas Expy/MO-13) due to accident.,S Kansas Expy,MO,0.0,Fair,True
+756798,A-756799,2,37.14077,-93.314446,Incident on JAMES RIVER FWY WB near KANSAS EXPY Drive with caution.,James River Fwy W,MO,0.0,Fair,True
+1377300,A-1377301,2,37.140466,-93.314436,Stationary traffic on US-160 S - US-60 E - MO-13 E from Kansas Expy (US-160/US-60) to US-160 (East)/Campbell Ave (US-160/US-60) due to accident.,James River Fwy E,MO,0.0,Fair,True
+1516577,A-1516578,2,37.14077,-93.314446,Incident on JAMES RIVER FWY WB near KANSAS EXPY Drive with caution.,James River Fwy W,MO,0.0,Fog,True
