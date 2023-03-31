@@ -1,0 +1,15 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+330155,A-330156,2,45.07552,-93.185166,Accident on I-694/Exit 27 (I-35W) from MN-96/Exit 28A (I-35W) to I-35W N.,I-35W N,MN,0.0,Light Rain,True
+590851,A-590852,2,45.07552,-93.185166,Construction on I-35W near I-694 Drive with caution.,I-35W N,MN,0.0,Wintry Mix,True
+1026890,A-1026891,2,45.07552,-93.185166,Incident on I-35W near I-694 Drive with caution.,I-35W N,MN,0.0,Light Snow,True
+1189499,A-1189500,2,45.075524,-93.185178,Accident at exit [28A].,I-35W N,MN,0.0,Cloudy,True
+1406776,A-1406777,2,45.075524,-93.185178,Slow traffic on I-35W N from I-694/Exit 27 (I-35W) to CR-10/Exit 28B (I-35W) due to accident.,I-35W N,MN,0.0,Mostly Cloudy,True
+1410215,A-1410216,2,45.07552,-93.185166,Stationary traffic on I-35W N from I-694/Exit 27 (I-35W) to MN-96/Exit 28A (I-35W) due to accident.,I-35W N,MN,0.0,Light Rain,True
+1447272,A-1447273,2,45.07552,-93.185166,Slow traffic on I-35W N from I-694/Exit 27 (I-35W) to MN-96/Exit 28A (I-35W) due to accident.,I-35W N,MN,0.0,Partly Cloudy,True
+1498219,A-1498220,2,45.07552,-93.185166,Accident on I-694/Exit 27 (I-35W) from MN-96/Exit 28A (I-35W) to I-35W N.,I-35W N,MN,0.0,Light Snow,True
+1531894,A-1531895,2,45.07552,-93.185166,Accident on I-694/Exit 27 (I-35W) from MN-96/Exit 28A (I-35W) to I-35W N.,I-35W N,MN,0.0,Fair,True
+1598997,A-1598998,2,45.07552,-93.185166,Incident on I-35W NB near I-694 Drive with caution.,I-35W N,MN,0.0,Fair,True
+1707381,A-1707382,2,45.07552,-93.185166,Incident on I-35W NB near I-694 Drive with caution.,I-35W N,MN,0.0,Fair,True
+1906188,A-1906189,2,45.075524,-93.185178,Queuing traffic on I-35W from I-694/Exit 27 (I-35W) to CR-I/Exit 29 (I-35W) due to accident roadwork.,I-35W N,MN,0.0,Partly Cloudy,True
+2016899,A-2016900,2,45.07552,-93.185166,Incident on I-35W NB near I-694 Drive with caution.,I-35W N,MN,0.0,Light Snow,True
+2306339,A-2306340,2,45.08321,-93.18628,At CR-96/Exit 28A - Vehicle spun around.,I-35W S,MN,0.0,Light Snow,True

@@ -1,0 +1,24 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+88236,A-88237,2,27.38327,-82.44711,At University Pky/Exit 213 - Accident.,I-75 N,FL,0.02,Rain,True
+253333,A-253334,2,27.383454,-82.44708299999998,Slow traffic on I-75 N from FL-780/Exit 39 (I-75) to FL-70/Exit 41 (I-75) due to accident.,I-75 N,FL,0.0,Fair,True
+621260,A-621261,2,27.383454,-82.44708299999998,Stationary traffic on I-75 N from FL-780/Exit 39 (I-75) to FL-70/Exit 41 (I-75) due to accident.,I-75 N,FL,0.0,Fair,True
+802471,A-802472,2,27.383454,-82.44708299999998,Incident on I-75 NB near MM 213 Drive with caution.,I-75 N,FL,0.0,Partly Cloudy,True
+810525,A-810526,2,27.383454,-82.44708299999998,Stationary traffic on I-75 N from FL-780/Exit 39 (I-75) to FL-64/Exit 42 (I-75) due to accident.,I-75 N,FL,0.0,Fair,True
+955928,A-955929,2,27.383454,-82.44708299999998,Stationary traffic on I-75 N from FL-780/Exit 39 (I-75) to FL-70/Exit 41 (I-75) due to accident.,I-75 N,FL,0.0,Fair,True
+1539398,A-1539399,2,27.383454,-82.44708299999998,Slow traffic on I-75 N from FL-780/Exit 39 (I-75) to FL-70/Exit 41 (I-75) due to accident.,I-75 N,FL,0.0,Cloudy,True
+1539829,A-1539830,2,27.383454,-82.44708299999998,Stationary traffic on I-75 N from FL-780/Exit 39 (I-75) to FL-64/Exit 42 (I-75) due to accident.,I-75 N,FL,0.0,Fair,True
+1668354,A-1668355,2,27.383454,-82.44708299999998,Incident on I-75 NB near MM 213 Drive with caution.,I-75 N,FL,0.0,Fair,True
+1672469,A-1672470,2,27.383454,-82.44708299999998,Incident on I-75 NB near MM 213 Right lane blocked. Expect delays.,I-75 N,FL,0.0,Cloudy,True
+1845875,A-1845876,2,27.383454,-82.44708299999998,Incident on I-75 NB near EXIT 213 Right lane blocked. Expect delays.,I-75 N,FL,0.0,Fair,True
+1880438,A-1880439,2,27.383454,-82.44708299999998,Stationary traffic on I-75 N from FL-780/Exit 39 (I-75) to FL-64/Exit 42 (I-75) due to accident.,I-75 N,FL,0.0,Cloudy,True
+1990003,A-1990004,2,27.383454,-82.44708299999998,Stationary traffic on I-75 N from FL-780/Exit 39 (I-75) to FL-70/Exit 41 (I-75) due to accident.,I-75 N,FL,0.0,Fair,True
+2025785,A-2025786,2,27.383454,-82.44708299999998,Slow traffic on I-75 N from FL-780/Exit 39 (I-75) to FL-70/Exit 41 (I-75) due to accident.,I-75 N,FL,0.0,Fair,True
+2037518,A-2037519,2,27.383454,-82.44708299999998,Slow traffic on I-75 N from FL-780/Exit 39 (I-75) to FL-70/Exit 41 (I-75) due to accident.,I-75 N,FL,0.0,Fair,True
+2144554,A-2144555,3,27.3833,-82.44699,Between SR-780/Exit 210 and SR-64/Exit 220 - Earlier accident.,I-75 N,FL,0.0,Fair,True
+2231467,A-2231468,2,27.3833,-82.44699,Between SR-780/Exit 210 and SR-70/Exit 217 - Accident.,I-75 N,FL,0.0,Fair,True
+2231488,A-2231489,2,27.3833,-82.44699,Between SR-780/Exit 210 and SR-70/Exit 217 - Accident.,I-75 N,FL,0.0,Fair,True
+2245448,A-2245449,2,27.3833,-82.44699,Between SR-780/Exit 210 and SR-70/Exit 217 - Accident.,I-75 N,FL,0.0,Fair,True
+2245505,A-2245506,2,27.3833,-82.44699,Between SR-780/Exit 210 and SR-70/Exit 217 - Earlier accident.,I-75 N,FL,0.0,Fair,True
+2264058,A-2264059,3,27.3833,-82.44699,Between SR-780/Exit 210 and SR-70/Exit 217 - Accident. Right lane blocked.,I-75 N,FL,0.11,Mostly Cloudy,True
+2266427,A-2266428,2,27.3833,-82.44699,Between SR-780/Exit 210 and US-301/Exit 224 - Accident.,I-75 N,FL,0.35,Heavy Rain,True
+2279099,A-2279100,2,27.3833,-82.44699,Between SR-780/Exit 210 and SR-70/Exit 217 - Earlier accident.,I-75 N,FL,0.0,Fair,True

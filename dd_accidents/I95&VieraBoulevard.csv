@@ -1,0 +1,5 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+1792441,A-1792442,2,28.26309,-80.72789300000002,Stationary traffic on I-95 from CR-509/Wickham Rd/Exit 73 (I-95) to Fiske Blvd/Exit 74 (I-95) due to accident.,I-95 N,FL,0.0,Fair,True
+1848932,A-1848933,2,28.263097,-80.727901,Incident on I-95 NB near MM 190 Drive with caution.,I-95 N,FL,0.0,Fair,True
+1891619,A-1891620,2,28.263097,-80.727901,Incident on I-95 NB near MM 193 Expect delays.,I-95 N,FL,0.0,Fair,True
+1903889,A-1903890,2,28.263097,-80.727901,Incident on I-95 NB near EXIT 191 Left lane blocked.,I-95 N,FL,0.0,Fair,True

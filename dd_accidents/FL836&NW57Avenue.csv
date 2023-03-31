@@ -1,0 +1,36 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+202505,A-202506,2,25.78439,-80.29283000000002,At SR-959/Red Rd - Accident.,Dolphin Expy E,FL,0.02,Overcast,True
+348476,A-348477,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Drive with caution.,Dolphin Expy E,FL,0.0,Fair,True
+577755,A-577756,2,25.785128,-80.284211,Incident on FL-836 WB near NW 57TH AVE Drive with caution.,Dolphin Expy W,FL,0.0,Partly Cloudy,True
+624884,A-624885,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Drive with caution.,Dolphin Expy E,FL,0.0,Mostly Cloudy,True
+653344,A-653345,2,25.784884,-80.28433000000003,Incident on FL-836 EB near NW 57TH AVE Drive with caution.,Dolphin Expy E,FL,0.02,Light Rain with Thunder,True
+658757,A-658758,2,25.784353,-80.2927,Slow traffic on FL-836 E from 72nd Ave/Milam Dairy Rd (FL-836) to FL-953/42nd Ave/Le Jeune Rd (FL-836) due to accident.,Dolphin Expy E,FL,0.0,Partly Cloudy,True
+722371,A-722372,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Road closed. Take alternate route.,Dolphin Expy E,FL,0.0,Fair,True
+983522,A-983523,2,25.785128,-80.284211,Stationary traffic on FL-836 W from 45th Ave (FL-836) to 72nd Ave/Milam Dairy Rd (FL-836) due to accident.,Dolphin Expy W,FL,0.0,Mostly Cloudy,True
+1101273,A-1101274,2,25.784884,-80.28433000000003,Stationary traffic on FL-836 E from FL-959/Red Rd (FL-836) to FL-953/42nd Ave/Le Jeune Rd (FL-836) due to accident.,Dolphin Expy E,FL,0.0,Partly Cloudy,True
+1231603,A-1231604,2,25.784879,-80.28432,Incident on FL-836 EB near NW 57TH AVE Left lane blocked.,Dolphin Expy E,FL,0.0,Partly Cloudy,True
+1235144,A-1235145,2,25.785115,-80.284212,Incident on FL-836 WB near NW 57TH AVE Right lane blocked. Expect delays.,Dolphin Expy W,FL,0.0,Mostly Cloudy,True
+1293361,A-1293362,2,25.784353,-80.2927,Incident on FL-836 EB near NW 72ND AVE Drive with caution.,Dolphin Expy E,FL,0.0,Partly Cloudy,True
+1461574,A-1461575,2,25.785115,-80.284212,Incident on FL-836 WB near NW 57TH AVE Right lane blocked. Expect delays.,Dolphin Expy W,FL,0.0,Fair,True
+1542686,A-1542687,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Road closed. Take alternate route.,Dolphin Expy E,FL,0.0,Partly Cloudy,True
+1616207,A-1616208,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Road closed. Take alternate route.,Dolphin Expy E,FL,0.0,Partly Cloudy,True
+1663364,A-1663365,2,25.785115,-80.284212,Incident on FL-836 WB near NW 57TH AVE Drive with caution.,Dolphin Expy W,FL,0.0,Mostly Cloudy,True
+1781467,A-1781468,2,25.785128,-80.284211,Stationary traffic on FL-836 W from 45th Ave (FL-836) to 72nd Ave/Milam Dairy Rd (FL-836) due to accident.,Dolphin Expy W,FL,0.0,Mostly Cloudy,True
+1924578,A-1924579,2,25.784574,-80.292649,Slow traffic on FL-836 W from FL-959/Red Rd (FL-836) to 72nd Ave/Milam Dairy Rd (FL-836) due to accident.,Dolphin Expy W,FL,0.0,Cloudy,True
+1997537,A-1997538,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Drive with caution.,Dolphin Expy E,FL,0.0,Mostly Cloudy,True
+2000462,A-2000463,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Expect delays.,Dolphin Expy E,FL,0.0,Fair,True
+2003981,A-2003982,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Drive with caution.,Dolphin Expy E,FL,0.0,Mostly Cloudy,True
+2024337,A-2024338,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Drive with caution.,Dolphin Expy E,FL,0.0,Mostly Cloudy,True
+2028752,A-2028753,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Expect delays.,Dolphin Expy E,FL,0.0,Mostly Cloudy,True
+2028920,A-2028921,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Drive with caution.,Dolphin Expy E,FL,0.0,Cloudy,True
+2034106,A-2034107,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Drive with caution.,Dolphin Expy E,FL,0.09,Thunder,True
+2034621,A-2034622,2,25.785115,-80.284212,Incident on FL-836 WB near NW 57TH AVE Drive with caution.,Dolphin Expy W,FL,0.0,Mostly Cloudy,True
+2037514,A-2037515,2,25.784343,-80.292688,Incident on FL-836 near NW 57TH AVE Drive with caution.,Dolphin Expy E,FL,0.0,Cloudy,True
+2044467,A-2044468,2,25.784343,-80.292688,Incident on FL-836 EB near NW FL-826 Left lane blocked.,Dolphin Expy E,FL,0.01,Light Rain,True
+2050705,A-2050706,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Drive with caution.,Dolphin Expy E,FL,0.0,Mostly Cloudy / Windy,True
+2053191,A-2053192,2,25.784343,-80.292688,Incident on FL-836 near NW 57TH AVE Drive with caution.,Dolphin Expy E,FL,0.0,Mostly Cloudy,True
+2057639,A-2057640,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Drive with caution.,Dolphin Expy E,FL,0.0,Light Rain with Thunder,True
+2060053,A-2060054,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Drive with caution.,Dolphin Expy E,FL,0.0,Fair,True
+2061396,A-2061397,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Drive with caution.,Dolphin Expy E,FL,0.0,Partly Cloudy,True
+2067961,A-2067962,2,25.784343,-80.292688,Incident on FL-836 EB near NW 57TH AVE Drive with caution.,Dolphin Expy E,FL,0.0,Cloudy,True
+2736554,A-2736555,2,25.78439,-80.29283000000002,At SR-959/Red Rd - Accident. Right lane blocked.,Dolphin Expy E,FL,0.07,Light Rain,True

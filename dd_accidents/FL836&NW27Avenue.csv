@@ -1,0 +1,39 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+38768,A-38769,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.0,Haze,True
+49883,A-49884,3,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.0,Overcast,True
+61631,A-61632,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.06,Heavy Thunderstorms and Rain,True
+70524,A-70525,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.02,Heavy Thunderstorms and Rain,True
+70539,A-70540,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.02,Mostly Cloudy,True
+75716,A-75717,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.0,Light Rain,True
+81710,A-81711,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.0,Mostly Cloudy,True
+90097,A-90098,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.01,Light Rain,True
+160199,A-160200,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.01,Overcast,True
+202611,A-202612,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.04,Mostly Cloudy,True
+205179,A-205180,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.02,Overcast,True
+206448,A-206449,3,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.0,Light Rain,True
+217463,A-217464,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.0,Scattered Clouds,True
+219347,A-219348,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.01,Mostly Cloudy,True
+219586,A-219587,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.04,Light Thunderstorms and Rain,True
+396048,A-396049,2,25.7846,-80.23616899999998,Incident on FL-836 WB near NW 27TH AVE Drive with caution.,Dolphin Expy W,FL,0.0,Mostly Cloudy,True
+679500,A-679501,2,25.7846,-80.23616899999998,Incident on FL-836 WB near NW 27TH AVE Drive with caution.,Dolphin Expy W,FL,0.0,Mostly Cloudy,True
+1106917,A-1106918,2,25.784595,-80.236181,Slow traffic on FL-836 W from 17th Ave Toll Plaza (FL-836) to 72nd Ave/Milam Dairy Rd (FL-836) due to accident.,Dolphin Expy W,FL,0.0,Partly Cloudy,True
+1532783,A-1532784,2,25.7846,-80.23616899999998,Incident on FL-836 WB near NW 27TH AVE Drive with caution.,Dolphin Expy W,FL,0.0,Fair,True
+1565052,A-1565053,2,25.7846,-80.23616899999998,Incident on FL-836 WB near NW 27TH AVE Drive with caution.,Dolphin Expy W,FL,0.0,Mostly Cloudy,True
+1939448,A-1939449,2,25.7846,-80.23616899999998,Incident on FL-836 WB near NW 27TH AVE Road closed. Take alternate route.,Dolphin Expy W,FL,0.0,Mostly Cloudy,True
+1997260,A-1997261,2,25.7846,-80.23616899999998,Incident on FL-836 WB near NW 12TH AVE Left lane blocked.,Dolphin Expy W,FL,0.0,Mostly Cloudy,True
+2025587,A-2025588,2,25.7846,-80.23616899999998,Incident on FL-836 WB near NW 27TH AVE Drive with caution.,Dolphin Expy W,FL,0.0,Fair,True
+2139412,A-2139413,4,25.78456,-80.23617,At SR-9/27th Ave - Accident. Two lanes blocked.,Dolphin Expy E,FL,0.0,Partly Cloudy,True
+2505819,A-2505820,3,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.01,Light Rain,True
+2519170,A-2519171,3,25.78457,-80.23617,At SR-9/27th Ave - Accident. Right lane blocked.,Dolphin Expy W,FL,0.13,Mostly Cloudy,True
+2692859,A-2692860,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.0,Overcast,True
+2702835,A-2702836,2,25.78457,-80.23617,At SR-9/27th Ave - Accident. Right lane blocked.,Dolphin Expy W,FL,0.04,Overcast,True
+2731816,A-2731817,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.18,Light Rain,True
+2757983,A-2757984,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.01,Overcast,True
+2763199,A-2763200,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.0,Light Rain,True
+2763768,A-2763769,2,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.02,Thunderstorm,True
+2770957,A-2770958,3,25.78457,-80.23617,At SR-9/27th Ave - Accident. Center lane blocked.,Dolphin Expy W,FL,0.0,Light Rain,True
+2774308,A-2774309,3,25.78457,-80.23617,At SR-9/27th Ave - Accident. Right lane blocked.,Dolphin Expy W,FL,0.0,Mostly Cloudy,True
+2781688,A-2781689,2,25.78457,-80.23617,At SR-9/27th Ave - Accident. Right lane blocked.,Dolphin Expy W,FL,0.0,Partly Cloudy,True
+2796592,A-2796593,4,25.78457,-80.23617,Closed at SR-9/27th Ave - Road closed due to accident.,Dolphin Expy W,FL,0.0,Fair,True
+2805080,A-2805081,3,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.0,Fair,True
+2811514,A-2811515,3,25.78457,-80.23617,At SR-9/27th Ave - Accident.,Dolphin Expy W,FL,0.0,Thunder,True

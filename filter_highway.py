@@ -14,14 +14,14 @@ def filter_highway():
     junction_filtered_df = df[df['Junction'] == True]
     precipitation_filtered_df = junction_filtered_df[junction_filtered_df['Precipitation(in)'] >= 0]
 
-    #I-15 & Timpanogos Highway
-    # 40.431435, -111.890985
-    coordinates = [42.725949, -88.9929]
+    coordinates = [47.063555, -122.76539]
+    street = "I-5 & WA 210".replace(" ", "").replace('/', "").replace('-', "")
+
     dd_filtered_df = precipitation_filtered_df.loc[(precipitation_filtered_df['Start_Lat'] < coordinates[0] + .006)
                                                     & (precipitation_filtered_df['Start_Lat'] > coordinates[0] - .006)
                                                     & (precipitation_filtered_df['Start_Lng'] < coordinates[1] + .006)
                                                     & (precipitation_filtered_df['Start_Lng'] > coordinates[1] - .006)]
-    dd_filtered_df.to_csv('dd_accidents/I9039&AvalonRoad.csv')
+    dd_filtered_df.to_csv('dd_accidents/' + street + '.csv')
     
     return dd_filtered_df
     #Create a new file

@@ -1,0 +1,18 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+241509,A-241510,2,37.78313,-121.239312,Accident on Airport Way (CA-120) from Union Rd (CA-120) to CA-120 E.,CA-120 E,CA,0.0,Fair,True
+367892,A-367893,2,37.78313,-121.239312,Accident on Airport Way (CA-120) from Union Rd (CA-120) to CA-120 E.,CA-120 E,CA,0.0,Fair,True
+531939,A-531940,2,37.78312800000001,-121.239328,Slow traffic on CA-120 E from Airport Way (CA-120) to Main St (CA-120) due to accident.,CA-120 E,CA,0.0,Fair,True
+743119,A-743120,2,37.78313,-121.239312,Accident on Airport Way (CA-120) from Union Rd (CA-120) to CA-120 E.,CA-120 E,CA,0.0,Fair,True
+802945,A-802946,2,37.78313,-121.239312,Incident on CA-120 EB near S UNION RD Drive with caution.,CA-120 E,CA,0.0,Cloudy,True
+1174834,A-1174835,2,37.78313,-121.239312,Incident on CA-120 EB near UNION RD Road closed. Take alternate route.,CA-120 E,CA,0.0,Haze,True
+1288651,A-1288652,2,37.78313,-121.239312,Accident on Airport Way (CA-120) from Union Rd (CA-120) to CA-120 E.,CA-120 E,CA,0.0,Fog,True
+1447129,A-1447130,2,37.78312800000001,-121.239328,Stationary traffic on CA-120 E from Airport Way (CA-120) to Main St (CA-120) due to accident.,CA-120 E,CA,0.0,Fair,True
+1519343,A-1519344,2,37.78313,-121.239312,Incident on CA-120 EB near MAIN Expect delays.,CA-120 E,CA,0.0,Haze,True
+1675266,A-1675267,2,37.78313,-121.239312,EB 120 JWO UNION. STILL IN CD / CLOSER TO WB SIDE,CA-120 E,CA,0.0,Haze,True
+1751955,A-1751956,2,37.783131,-121.239585,EB SR120 AT AIRPORT. 1039 MANTECA PD,CA-120 E,CA,0.0,Fair,True
+1784550,A-1784551,2,37.783131,-121.239585,Stationary traffic on CA-120 E from Airport Way (CA-120) to Main St (CA-120) due to accident.,CA-120 E,CA,0.0,Fog,True
+1995684,A-1995685,2,37.78313,-121.239312,EB 120 JEO UNION. C62-503 LOCATED 2ND PLT / VEH HAS 2 PLTS,CA-120 E,CA,0.0,Fair,True
+2104486,A-2104487,2,37.783126,-121.239572,At Union Rd - Accident.,CA-120 E,CA,0.0,Fair,True
+2320345,A-2320346,2,37.783126,-121.239572,At Union Rd - Accident.,CA-120 E,CA,0.0,Fair,True
+2363247,A-2363248,2,37.783126,-121.239572,At Union Rd - Accident.,CA-120 E,CA,0.0,Cloudy,True
+2425204,A-2425205,2,37.783126,-121.239572,At Union Rd - Accident.,CA-120 E,CA,0.0,Fair,True

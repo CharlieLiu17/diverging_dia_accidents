@@ -1,0 +1,13 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+353145,A-353146,2,30.663152,-87.855767,Incident on I-10 WB near MM 36 Drive with caution.,I-10 W,AL,0.0,Fair,True
+389347,A-389348,2,30.663293,-87.848575,Stationary traffic on I-10 W from AL-59/Exit 44 (I-10) to US-98/US-90/Battleship Pkwy/Exit 30 (I-10) due to accident.,I-10 W,AL,0.0,Partly Cloudy,True
+453424,A-453425,2,30.663293,-87.848575,Stationary traffic on I-10 W from AL-59/Exit 44 (I-10) to US-98/US-90/Battleship Pkwy/Exit 30 (I-10) due to accident.,I-10 W,AL,0.0,Fair,True
+623303,A-623304,2,30.663293,-87.848575,Slow traffic on I-10 W from AL-59/Exit 44 (I-10) to US-98/US-90/Battleship Pkwy/Exit 30 (I-10) due to accident.,I-10 W,AL,0.0,Thunder,True
+641671,A-641672,2,30.663152,-87.855767,Incident on I-10 WB near MM 36 Left lane blocked.,I-10 W,AL,0.0,Partly Cloudy,True
+781809,A-781810,2,30.662941,-87.855712,Stationary traffic on I-10 E from US-98/US-90/Exit 35 (I-10) to Baldwin Beach Expy (I-10) due to accident.,I-10 E,AL,0.0,Fair,True
+829459,A-829460,2,30.663152,-87.855767,Incident on I-10 WB near MM 35 Drive with caution.,I-10 W,AL,0.0,Mostly Cloudy / Windy,True
+1097325,A-1097326,2,30.663293,-87.848575,Stationary traffic on I-10 W from AL-59/Exit 44 (I-10) to US-98/US-90/Battleship Pkwy/Exit 30 (I-10) due to accident.,I-10 W,AL,0.0,Fair,True
+1110892,A-1110893,2,30.663293,-87.848575,Slow traffic on I-10 W from AL-59/Exit 44 (I-10) to US-98/US-90/Exit 35 (I-10) due to accident.,I-10 W,AL,0.0,Partly Cloudy,True
+1343614,A-1343615,2,30.663152,-87.855767,Incident on I-10 WB near MM 35 Left shoulder closed.,I-10 W,AL,0.0,Fair,True
+1957509,A-1957510,2,30.663162,-87.855766,Incident on I-10 WB near AL-181 Expect long delays.,I-10 W,AL,0.0,Light Rain,True
+2142509,A-2142510,3,30.66289,-87.85598,Between US-90/US-98/Exit 35 and AL-59/Gulf Shores Pky/Exit 44 - Accident.,I-10 E,AL,0.0,Fair,True

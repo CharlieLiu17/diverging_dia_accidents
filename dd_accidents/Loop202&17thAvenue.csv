@@ -1,0 +1,17 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+385616,A-385617,2,33.458526,-112.108179,Slow traffic on Black Canyon Fwy S - US-60 E - I-17 S from McDowell Rd/Exit 200B (I-17) to Grant St/Exit 199A (I-17) due to accident.,Black Canyon Fwy S,AZ,0.0,Fair,True
+427954,A-427955,2,33.458751,-112.108175,Stationary traffic on Black Canyon Fwy S - US-60 E - I-17 S from McDowell Rd/Exit 200B (I-17) to Grant St/Exit 199A (I-17) due to accident.,Black Canyon Fwy S,AZ,0.0,Fair,True
+483370,A-483371,2,33.458681,-112.10801,Incident on I-17 NB near I-10 Right shoulder closed.,US-60 W,AZ,0.0,Haze,True
+715206,A-715207,2,33.458681,-112.10801,Stationary traffic on US-60 W - I-17 N - Black Canyon Fwy N from Adams St/Exit 199B (I-17) to Thomas Rd/Exit 201 (I-17) due to accident.,US-60 W,AZ,0.0,Fair,True
+824265,A-824266,2,33.458681,-112.10801,Stationary traffic on US-60 W - I-17 N - Black Canyon Fwy N from Adams St/Exit 199B (I-17) to Thomas Rd/Exit 201 (I-17) due to accident.,US-60 W,AZ,0.0,Partly Cloudy,True
+1347814,A-1347815,2,33.458681,-112.10801,Slow traffic on US-60 W - I-17 N - Black Canyon Fwy N from Adams St/Exit 199B (I-17) to Indian School Rd/Exit 202 (I-17) due to accident.,US-60 W,AZ,0.0,Mostly Cloudy,True
+1357089,A-1357090,2,33.458681,-112.10801,Stationary traffic on US-60 W - I-17 N - Black Canyon Fwy N from Adams St/Exit 199B (I-17) to Thomas Rd/Exit 201 (I-17) due to accident.,US-60 W,AZ,0.0,Fair,True
+1396863,A-1396864,2,33.458744,-112.108172,Stationary traffic on Black Canyon Fwy S - US-60 E - I-17 S from McDowell Rd/Exit 200B (I-17) to I-10/Exit 200 (I-17) due to accident.,Black Canyon Fwy S,AZ,0.0,Partly Cloudy,True
+1579269,A-1579270,2,33.458681,-112.10801,Stationary traffic on US-60 W - I-17 N - Black Canyon Fwy N from Adams St/Exit 199B (I-17) to Indian School Rd/Exit 202 (I-17) due to accident.,US-60 W,AZ,0.0,Fair,True
+1644474,A-1644475,2,33.458681,-112.10801,Slow traffic on US-60 W - I-17 N - Black Canyon Fwy N from Adams St/Exit 199B (I-17) to Camelback Rd/Exit 203 (I-17) due to accident.,US-60 W,AZ,0.0,Fair,True
+1846131,A-1846132,2,33.458681,-112.10801,Slow traffic on I-17 from Adams St/Exit 199B (I-17) to Thomas Rd/Exit 201 (I-17) due to accident.,US-60 W,AZ,0.0,Fair,True
+1914806,A-1914807,2,33.458681,-112.10801,Slow traffic on US-60 W - I-17 N - Black Canyon Fwy N from Adams St/Exit 199B (I-17) to Indian School Rd/Exit 202 (I-17) due to accident.,US-60 W,AZ,0.0,Fair,True
+2391481,A-2391482,4,33.46498,-112.10985,Ramp closed to I-10/Papago Fwy Westbound - Road closed due to accident.,US-60 E,AZ,0.0,Mostly Cloudy,True
+2392592,A-2392593,4,33.46498,-112.10985,Ramp closed to I-10/Papago Fwy Westbound - Road closed due to accident.,US-60 E,AZ,0.0,Mostly Cloudy,True
+2451075,A-2451076,4,33.46498,-112.10985,Ramp closed to Arizona Veterans Memorial Hwy - Road closed due to accident.,US-60 E,AZ,0.0,Mostly Cloudy,True
+2813038,A-2813039,4,33.46498,-112.10985,Ramp closed to I-10/Papago Fwy Eastbound - Road closed due to accident.,US-60 E,AZ,0.0,Mostly Cloudy,True
