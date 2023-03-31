@@ -1,0 +1,13 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+589965,A-589966,2,38.816081,-77.635649,Incident on I-66 WB near MM 41 Left lane blocked.,I-66 W,VA,0.0,Mostly Cloudy,True
+2103212,A-2103213,4,38.81613,-77.63575,Closed between US-29/Exit 43 and VA-245/Exit 31 - Road closed due to accident.,I-66 W,VA,0.0,Partly Cloudy,True
+2103236,A-2103237,4,38.81613,-77.63575,Closed between US-29/Exit 43 and VA-245/Exit 31 - Road closed due to accident.,I-66 W,VA,0.0,Partly Cloudy,True
+2103255,A-2103256,4,38.81613,-77.63575,Closed between US-29/Exit 43 and VA-245/Exit 31 - Road closed due to accident.,I-66 W,VA,0.0,Fair,True
+2103260,A-2103261,3,38.81613,-77.63575,Between US-29/Exit 43 and VA-245/Exit 31 - Accident. Left lane blocked.,I-66 W,VA,0.0,Fair,True
+2103268,A-2103269,3,38.81613,-77.63575,Between US-29/Exit 43 and VA-245/Exit 31 - Accident. Left lane blocked.,I-66 W,VA,0.0,Fair,True
+2239143,A-2239144,1,38.81613,-77.63575,At US-15/Exit 40 - Accident. Hard shoulder blocked.,I-66 W,VA,0.0,Partly Cloudy,True
+2239147,A-2239148,2,38.81613,-77.63575,At US-15/Exit 40 - Accident. Hard shoulder blocked.,I-66 W,VA,0.0,Partly Cloudy,True
+2239159,A-2239160,2,38.81613,-77.63575,At US-15/Exit 40 - Accident. Hard shoulder blocked.,I-66 W,VA,0.0,Partly Cloudy,True
+2239162,A-2239163,1,38.81613,-77.63575,At US-15/Exit 40 - Accident. Hard shoulder blocked.,I-66 W,VA,0.0,Partly Cloudy,True
+2239175,A-2239176,1,38.81613,-77.63575,At US-15/Exit 40 - Accident. Hard shoulder blocked.,I-66 W,VA,0.0,Partly Cloudy,True
+2609995,A-2609996,4,38.81613,-77.63575,Closed between I-66 and US-15/Exit 40 - Road closed due to accident.,I-66 W,VA,0.0,Light Rain,True

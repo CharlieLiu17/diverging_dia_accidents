@@ -1,0 +1,5 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+295414,A-295415,2,30.204709,-97.863754,Incident on SL-1 SB near SLAUGHTER LN Drive with caution.,Mopac Expy S,TX,0.0,Thunder,True
+533671,A-533672,2,30.204709,-97.863754,Incident on SL-1 SB near WILLIAM CANNON DR Drive with caution.,Mopac Expy S,TX,0.0,Thunder,True
+905755,A-905756,2,30.204709,-97.863754,Incident on SL-1 SB near SLAUGHTER LN Drive with caution.,Mopac Expy S,TX,0.0,Thunder,True
+1811469,A-1811470,2,30.204709,-97.863754,Incident on TX-1-LOOP SB near SLAUGHTER LN Drive with caution.,Mopac Expy S,TX,0.0,Cloudy,True

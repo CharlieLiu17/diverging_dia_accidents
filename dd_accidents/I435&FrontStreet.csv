@@ -1,6 +1,22 @@
 ,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
-722569,A-722570,2,39.12762100000001,-94.497953,Incident on I-435 near FRONT ST Drive with caution.,I-435 N,MO,0.0,Fair,True
-1467185,A-1467186,2,39.12762100000001,-94.497953,Stationary traffic on I-435 N from US-24/Winner Rd/Exit 59 (I-435) to MO-210/Exit 55 (I-435) due to accident.,I-435 N,MO,0.0,Fair,True
-1732728,A-1732729,2,39.12762100000001,-94.497953,Incident on I-435 near FRONT ST Drive with caution.,I-435 N,MO,0.0,Fair,True
-1775363,A-1775364,2,39.12762100000001,-94.497953,Incident on I-435 near FRONT ST Drive with caution.,I-435 N,MO,0.0,Fair,True
-2416911,A-2416912,2,39.13354,-94.49887,At MO-210/Exit 55 - Accident. Right lane blocked.,I-435 N,MO,0.0,Fair,True
+975784,A-975785,2,40.430749,-111.890698,Accident on UT-92/Exit 287 (I-15) from US-89/1200/Exit 285 (I-15) to I-15 S - US-89 S.,I-15 S,UT,0.0,Fair,True
+1474996,A-1474997,2,40.426474,-111.885092,Slow traffic on I-15 N - US-89 N from US-89/1200/Exit 285 (I-15) to UT-140/Exit 291 (I-15) due to accident.,I-15 N,UT,0.0,Mostly Cloudy,True
+1495856,A-1495857,2,40.426479,-111.885076,Accident on US-89/1200/Exit 285 (I-15) from UT-92/Exit 287 (I-15) to I-15 N - US-89 N.,I-15 N,UT,0.0,Mostly Cloudy,True
+1848203,A-1848204,2,40.430666,-111.890782,Incident on 1 SB near 1 Drive with caution.,I-15 S,UT,0.0,Partly Cloudy,True
+2089348,A-2089349,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident. Lane closed.,I-15 S,UT,0.0,Mostly Cloudy,True
+2106601,A-2106602,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident.,I-15 S,UT,0.0,Fair,True
+2108120,A-2108121,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident.,I-15 S,UT,0.0,Fair,True
+2189806,A-2189807,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident.,I-15 S,UT,0.0,Mostly Cloudy,True
+2193948,A-2193949,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident.,I-15 S,UT,0.0,Partly Cloudy,True
+2193978,A-2193979,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident.,I-15 S,UT,0.0,Fair,True
+2198490,A-2198491,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident. Right lane closed.,I-15 S,UT,0.0,Fair,True
+2202346,A-2202347,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident. Left lane closed.,I-15 S,UT,0.0,Fair,True
+2202364,A-2202365,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident.,I-15 S,UT,0.0,Mostly Cloudy,True
+2240105,A-2240106,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident.,I-15 S,UT,0.0,Cloudy,True
+2260971,A-2260972,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident.,I-15 S,UT,0.0,Light Rain,True
+2325675,A-2325676,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident.,I-15 S,UT,0.0,Partly Cloudy,True
+2325697,A-2325698,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident.,I-15 S,UT,0.0,Partly Cloudy,True
+2334813,A-2334814,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident.,I-15 S,UT,0.0,Partly Cloudy,True
+2339039,A-2339040,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident. Lane closed.,I-15 S,UT,0.0,Partly Cloudy,True
+2344018,A-2344019,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident.,I-15 S,UT,0.0,Cloudy,True
+2344038,A-2344039,2,40.43072,-111.89076,At UT-92/Exit 284 - Accident.,I-15 S,UT,0.0,Partly Cloudy,True

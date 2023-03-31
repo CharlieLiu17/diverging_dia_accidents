@@ -1,0 +1,19 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+2329406,A-2329407,3,33.89865,-84.47028,At I-285/Exit 259 - Accident. Heavy rain.,I-75 S,GA,0.0,Light Rain,True
+2344949,A-2344950,2,33.8981,-84.46864000000002,Ramp to I-285/Exit 259 - Accident. Left lane blocked., Interstate North Pkwy SE,GA,0.21,Rain Shower,True
+2375496,A-2375497,2,33.8981,-84.46864000000002,Ramp to I-285/Exit 259 - Accident. Left lane blocked., Interstate North Pkwy SE,GA,0.0,Mostly Cloudy,True
+2375501,A-2375502,2,33.8981,-84.46864000000002,Ramp to I-285/Exit 259 - Accident. Left lane blocked., Interstate North Pkwy SE,GA,0.0,Mostly Cloudy,True
+2415957,A-2415958,2,33.8981,-84.46864000000002,Ramp to Exit 20 - Accident., Interstate North Pkwy SE,GA,0.0,Cloudy,True
+2419334,A-2419335,2,33.89865,-84.47028,At I-285/Exit 259 - Accident. Left lane blocked.,I-75 S,GA,0.0,Light Drizzle,True
+2420754,A-2420755,2,33.8981,-84.46864000000002,Ramp to Exit 20 - Accident. Right lane blocked., Interstate North Pkwy SE,GA,0.0,Fair,True
+2439860,A-2439861,2,33.89865,-84.47028,Ramp to I-285 and Cobb Pky - Accident. Left lane blocked.,I-75 S,GA,0.0,Light Rain,True
+2472443,A-2472444,3,33.8981,-84.46864000000002,Ramp to Exit 20 - Accident., Interstate North Pkwy SE,GA,0.0,Fair,True
+2484595,A-2484596,2,33.8981,-84.46864000000002,Ramp to 19 - Accident., Interstate North Pkwy SE,GA,0.0,Partly Cloudy,True
+2504222,A-2504223,2,33.89865,-84.47028,Ramp to I-285 and Cobb Pky - Accident. Right lane blocked.,I-75 S,GA,0.17,Light Rain,True
+2673569,A-2673570,2,33.89865,-84.47028,At I-285/Exit 259 - Accident.,I-75 S,GA,0.03,Light Rain,True
+2780468,A-2780469,3,33.89865,-84.47028,At I-285/Exit 259 - Accident.,I-75 S,GA,0.46,Light Rain,True
+2795444,A-2795445,2,33.89865,-84.47028,Ramp to I-285 and Cobb Pky - Accident. Left lane blocked.,I-75 S,GA,0.0,Mostly Cloudy,True
+2809088,A-2809089,4,33.8981,-84.46864000000002,Ramp closed to 19 - Road closed due to accident., Interstate North Pkwy SE,GA,0.0,Mostly Cloudy / Windy,True
+2822721,A-2822722,3,33.89865,-84.47028,At I-285/Exit 259 - Accident.,I-75 S,GA,0.0,Fair,True
+2834442,A-2834443,2,33.8981,-84.46864000000002,Ramp to 19 - Accident., Interstate North Pkwy SE,GA,0.0,Mostly Cloudy,True
+2835024,A-2835025,3,33.89865,-84.47028,At I-285/Exit 259 - Accident.,I-75 S,GA,0.23,Light Rain,True

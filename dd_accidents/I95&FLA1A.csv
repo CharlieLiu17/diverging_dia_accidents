@@ -1,0 +1,7 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+728078,A-728079,2,30.623197,-81.65141700000002,Incident on I-95 SB near MM 373 Right lane blocked. Expect delays.,I-95 S,FL,0.03,T-Storm,True
+1210990,A-1210991,2,30.623198,-81.651409,Incident on I-95 SB near FL-200 Drive with caution.,I-95 S,FL,0.0,Fair,True
+1343435,A-1343436,2,30.623198,-81.651409,Incident on I-95 SB near SR-A1A Road closed. Take alternate route.,I-95 S,FL,0.0,Mostly Cloudy,True
+1480717,A-1480718,2,30.623198,-81.651409,Incident on I-95 SB near FL-200 Left shoulder closed.,I-95 S,FL,0.0,Partly Cloudy,True
+1746430,A-1746431,2,30.623198,-81.651409,Incident on I-95 SB near FL-200 Drive with caution.,I-95 S,FL,0.0,Fair,True
+1972092,A-1972093,2,30.623198,-81.651409,Incident on I-95 SB near FL-200 Drive with caution.,I-95 S,FL,0.0,Cloudy,True

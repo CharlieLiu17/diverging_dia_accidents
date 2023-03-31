@@ -1,0 +1,7 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+341782,A-341783,2,33.458143,-111.982709,Incident on AZ-202 LOOP WB near GRAND CANAL Right shoulder closed.,AZ-202 Loop W,AZ,0.0,Partly Cloudy,True
+936610,A-936611,2,33.458193,-111.982909,Incident on AZ-202 LOOP WB near GRAND CANAL Left lane blocked.,AZ-202 Loop W,AZ,0.0,Partly Cloudy,True
+960162,A-960163,2,33.463464,-111.982601,Incident on AZ-143 SB near SKY HARBOR AIRPORT Right shoulder closed.,AZ-143 S,AZ,0.0,Partly Cloudy,True
+1189988,A-1189989,2,33.458143,-111.982709,Incident on AZ-202 LOOP WB near GRAND CANAL Right lane blocked. Expect delays.,AZ-202 Loop W,AZ,0.0,Cloudy,True
+1464805,A-1464806,2,33.463464,-111.982601,Incident on AZ-143 near AZ-202 Expect delays.,AZ-143 S,AZ,0.0,Mostly Cloudy,True
+1469564,A-1469565,2,33.463464,-111.982601,Incident on AZ-143 SB near SKY HARBOR AIRPORT Drive with caution.,AZ-143 S,AZ,0.0,Mostly Cloudy,True

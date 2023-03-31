@@ -1,0 +1,6 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+307168,A-307169,2,32.186218,-81.19878100000003,Slow traffic on GA-405 N - I-95 N from Jimmy de Loach Pkwy/Exit 106 (I-95) to GA-21/Exit 109 (I-95) due to accident.,GA-405 N,GA,0.0,Fair,True
+567060,A-567061,2,32.196131,-81.19082,Incident on I-95 SB near AUGUSTA RD Drive with caution.,GA-405 S,GA,0.0,Mostly Cloudy,True
+1358193,A-1358194,2,32.186218,-81.19878100000003,Incident on I-95 NB near GA-21 Drive with caution.,GA-405 N,GA,0.0,Fair,True
+1449269,A-1449270,2,32.196131,-81.19082,Incident on I-95 SB near GA-21 Drive with caution.,GA-405 S,GA,0.0,Mostly Cloudy,True
+2472456,A-2472457,2,32.19621,-81.19079,At GA-21/Exit 109 - Accident. Left lane blocked.,GA-405 S,GA,0.0,Fair,True

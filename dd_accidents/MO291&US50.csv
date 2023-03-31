@@ -1,0 +1,8 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+334810,A-334811,2,38.902948,-94.373394,Incident on US-50 EB near MO-291 Left lane blocked.,MO-291,MO,0.0,Cloudy,True
+631923,A-631924,2,38.902941,-94.373384,Accident on US-50/Jefferson St (MO-291) from US-50 (MO-291) to MO-291 N - US-50 E.,MO-291,MO,0.0,Fair,True
+683396,A-683397,2,38.903102,-94.373333,Stationary traffic on US-50 W from MO-291 (US-50) to Chipman Rd (US-50) due to accident.,E US Highway 50,MO,0.03,Light Rain,True
+742162,A-742163,2,38.903671,-94.376131,Accident on US-50 (MO-291) from US-50/Jefferson St (MO-291) to MO-291.,MO-291,MO,0.0,Fair,True
+992039,A-992040,2,38.903092,-94.37332,Incident on US-50 WB near MO-291 Drive with caution.,E US Highway 50,MO,0.0,Fair,True
+2124016,A-2124017,2,38.9031,-94.37354,Between MO-291 and 3rd St - Earlier accident.,MO-291,MO,0.0,Cloudy,True
+2650624,A-2650625,2,38.90311,-94.37354,At MO-291/Jefferson St - Accident. Left lane blocked.,E US Highway 50,MO,0.0,Scattered Clouds,True

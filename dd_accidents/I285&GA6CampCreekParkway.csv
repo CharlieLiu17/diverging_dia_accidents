@@ -1,0 +1,22 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+2070768,A-2070769,1,33.66019,-84.49774000000002,At Camp Creek Pky/Exit 2 - Accident. Hard shoulder blocked.,GA-407 N,GA,0.0,Partly Cloudy,True
+2074993,A-2074994,3,33.6602,-84.49755,At GA-166/Lakewood Fwy/Exit 5 - Accident. Two lanes blocked.,GA-407 N,GA,0.07,Cloudy,True
+2163832,A-2163833,2,33.6602,-84.49755,At GA-166/Lakewood Fwy/Exit 5 - Accident. Right lane blocked.,GA-407 N,GA,0.02,Mostly Cloudy,True
+2172658,A-2172659,2,33.66019,-84.49774000000002,At Camp Creek Pky/Exit 2 - Accident. Hard shoulder blocked.,GA-407 N,GA,0.01,Mostly Cloudy,True
+2182032,A-2182033,2,33.6602,-84.49755,At GA-166/Lakewood Fwy/Exit 5 - Accident. Hard shoulder blocked.,GA-407 N,GA,0.0,Mostly Cloudy,True
+2223588,A-2223589,2,33.66019,-84.49774000000002,At Camp Creek Pky/Exit 2 - Accident. Right lane blocked.,GA-407 N,GA,0.0,Mostly Cloudy,True
+2223589,A-2223590,3,33.66021,-84.49755,At GA-166/Lakewood Fwy/Exit 5 - Accident. Hard shoulder blocked.,GA-407 N,GA,0.0,Mostly Cloudy,True
+2242951,A-2242952,2,33.6602,-84.49755,At GA-166/Lakewood Fwy/Exit 5 - Accident. Two lanes blocked.,GA-407 N,GA,0.0,Mostly Cloudy,True
+2268268,A-2268269,2,33.6602,-84.49755,At GA-166/Lakewood Fwy/Exit 5 - Accident. Right lane blocked.,GA-407 N,GA,0.0,Fair,True
+2280979,A-2280980,2,33.66019,-84.49774000000002,At Camp Creek Pky/Exit 2 - Accident. Hard shoulder blocked.,GA-407 N,GA,0.0,Mostly Cloudy,True
+2366420,A-2366421,4,33.65719,-84.49843,Ramp closed to Camp Creek Pky/Exit 2 - Road closed due to accident.,Camp Creek Pkwy,GA,0.0,Mostly Cloudy,True
+2447770,A-2447771,2,33.65719,-84.49843,Ramp to Camp Creek Pky/Exit 2 - Accident. Left lane blocked.,Camp Creek Pkwy,GA,0.0,Fair,True
+2553297,A-2553298,2,33.65363,-84.4975,At Camp Creek Pky/Exit 2 - Accident. Right lane blocked.,I-285 N,GA,0.0,Light Rain,True
+2558908,A-2558909,3,33.65363,-84.4975,At Camp Creek Pky/Exit 2 - Accident. Two lanes blocked.,I-285 N,GA,0.03,Light Rain,True
+2572779,A-2572780,2,33.6557,-84.49683,Ramp to Camp Creek Pky/Exit 2 - Accident. Lane blocked.,I-285 N,GA,0.0,Light Rain,True
+2572780,A-2572781,2,33.65363,-84.4975,Ramp to GA-6/Camp Creek Pkwy - Accident. Lane blocked.,I-285 N,GA,0.0,Light Rain,True
+2574927,A-2574928,3,33.65363,-84.4975,Between Camp Creek Pky/Exit 2 and GA-166/Lakewood Fwy/Exit 5 - Accident.,I-285 N,GA,0.28,Heavy Rain,True
+2619462,A-2619463,3,33.65363,-84.4975,Between Camp Creek Pky/Exit 2 and GA-166/Lakewood Fwy/Exit 5 - Accident.,I-285 N,GA,0.49,Light Rain,True
+2682096,A-2682097,3,33.65363,-84.4975,At Camp Creek Pky/Exit 2 - Accident.,I-285 N,GA,0.0,Light Drizzle,True
+2772407,A-2772408,3,33.65363,-84.4975,At Camp Creek Pky/Exit 2 - Accident. Three lanes blocked.,I-285 N,GA,0.0,Cloudy,True
+2834423,A-2834424,2,33.65719,-84.49843,Ramp to Camp Creek Pky/Exit 2 - Accident.,Camp Creek Pkwy,GA,0.0,Partly Cloudy,True

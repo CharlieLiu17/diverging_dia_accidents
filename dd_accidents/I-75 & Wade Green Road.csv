@@ -1,0 +1,16 @@
+,ID,Severity,Start_Lat,Start_Lng,Description,Street,State,Precipitation(in),Weather_Condition,Junction
+239151,A-239152,2,34.056653999999995,-84.599536,Stationary traffic on I-75 S - GA-401 S - GA-5 S from I-75 (I-75 Toll) to Canton Rd Conn NE (I-75 Toll) due to accident.,GA-401 S,GA,0.0,Fog,True
+250307,A-250308,2,34.056653999999995,-84.599536,Stationary traffic on I-75 S - GA-401 S - GA-5 S from I-75 (I-75 Toll) to Canton Rd Conn NE (I-75 Toll) due to accident.,GA-401 S,GA,0.0,Partly Cloudy,True
+421136,A-421137,2,34.05664,-84.599522,Incident on I-75 SB near WADE GREEN RD Drive with caution.,GA-401 S,GA,0.0,Partly Cloudy,True
+446995,A-446996,2,34.056653999999995,-84.599536,Stationary traffic on I-75 S - GA-401 S - GA-5 S from I-75 (I-75 Toll) to Canton Rd Conn NE (I-75 Toll) due to accident.,GA-401 S,GA,0.0,Fog,True
+451967,A-451968,2,34.05664,-84.599522,Incident on I-75 SB near WADE GREEN RD Right lane blocked. Expect delays.,GA-401 S,GA,0.0,Partly Cloudy,True
+1191671,A-1191672,2,34.056653999999995,-84.599536,Stationary traffic on I-75 S - GA-401 S - GA-5 S from I-75 (I-75 Toll) to GA-120 Alt/N Marietta Pkwy NE (I-75 Toll) due to accident.,GA-401 S,GA,0.0,Fair,True
+1385593,A-1385594,2,34.05664,-84.599522,Incident on I-75 SB near WADE GREEN RD Drive with caution.,GA-401 S,GA,0.0,Cloudy,True
+1735851,A-1735852,2,34.05089,-84.588471,Incident on I-75 NB near WADE GREEN RD Right lane blocked. Expect delays.,GA-401 N,GA,0.0,Fair,True
+2215255,A-2215256,4,34.05079,-84.58835,Closed between Chastain Rd/Exit 271 and GA-92/Exit 277 - Road closed due to accident.,I-75 N,GA,0.0,Rain,True
+2368041,A-2368042,2,34.05664,-84.59952,At Wade Green Rd/Exit 273 - Accident.,I-75 S,GA,0.0,Cloudy,True
+2413495,A-2413496,2,34.05664,-84.59952,At Wade Green Rd/Exit 273 - Accident. Left lane blocked.,I-75 S,GA,0.0,Fair,True
+2415951,A-2415952,2,34.05664,-84.59952,At Wade Green Rd/Exit 273 - Accident.,I-75 S,GA,0.02,Light Rain,True
+2419383,A-2419384,2,34.05664,-84.59952,Between Wade Green Rd/Exit 273 and Chastain Rd/Exit 271 - Accident.,I-75 S,GA,0.0,Fair,True
+2461161,A-2461162,3,34.05079,-84.58835,At Wade Green Rd/Exit 273 - Accident.,I-75 N,GA,0.0,Fair,True
+2810481,A-2810482,2,34.05079,-84.58835,At Wade Green Rd/Exit 273 - Accident. Lane blocked.,I-75 N,GA,0.0,Partly Cloudy,True
